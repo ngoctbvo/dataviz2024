@@ -1,4 +1,4 @@
-total <- read.csv("total school age.csv", header = TRUE)
+total <- read.csv(here("total school age.csv"))
 total <- total[-1,]
 str(total)
 
