@@ -1,344 +1,344 @@
-ISO3,Countries.and.areas,Region,Sub.region,Income.Group,Total,Rural,Urban,Poorest,Richest,Time.period,Data.source,SchoolLevel
-DZA,Algeria,MENA,MENA,Upper middle income (UM),25%,10%,33%,1%,78%,2018-19,Demographic and Health Survey,Lower Secondary
-AGO,Angola,SSA,ESA,Lower middle income (LM),19%,2%,27%,0%,62%,2015-16,Multiple Indicator Cluster Survey,Lower Secondary
-ARG,Argentina,LAC,LAC,Upper middle income (UM),43%,NA,NA,NA,NA,2011-12,Demographic and Health Survey,Lower Secondary
-ARM,Armenia,ECA,EECA,Upper middle income (UM),81%,71%,89%,44%,99%,2015-16,Multiple Indicator Cluster Survey,Lower Secondary
-BGD,Bangladesh,SA,SA,Lower middle income (LM),34%,31%,48%,8%,73%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-BRB,Barbados,LAC,LAC,High income (H),68%,66%,69%,20%,100%,2012,Demographic and Health Survey,Lower Secondary
-BEN,Benin,SSA,WCA,Low income (L),4%,2%,7%,0%,16%,2017-18,EDSA,Lower Secondary
-BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),12%,3%,17%,NA,NA,2016,Multiple Indicator Cluster Survey,Lower Secondary
-BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),61%,52%,79%,11%,95%,2011-12,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Lower Secondary
-BRA,Brazil,LAC,LAC,Upper middle income (UM),82%,50%,89%,84%,97%,2018,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Lower Secondary
-BGR,Bulgaria,ECA,EECA,Upper middle income (UM),81%,74%,84%,39%,100%,2013,Demographic and Health Survey,Lower Secondary
-BFA,Burkina Faso,SSA,WCA,Low income (L),2%,1%,5%,1%,6%,2010,Multiple Indicator Cluster Survey,Lower Secondary
-CMR,Cameroon,SSA,WCA,Lower middle income (LM),5%,0%,10%,0%,23%,2014,Multiple Indicator Cluster Survey,Lower Secondary
-CAF,Central African Republic,SSA,WCA,Low income (L),5%,1%,11%,0%,18%,2018-19,Multiple Indicator Cluster Survey,Lower Secondary
-TCD,Chad,SSA,WCA,Low income (L),2%,1%,8%,0%,9%,2019,CASEN,Lower Secondary
-CHL,Chile,LAC,LAC,High income (H),87%,71%,90%,75%,99%,2017,CHARLS 2018,Lower Secondary
-CHN,China,EAP,EAP,Upper middle income (UM),64%,51%,91%,NA,NA,2018,Demographic and Health Survey,Lower Secondary
-COL,Colombia,LAC,LAC,Upper middle income (UM),39%,6%,51%,1%,99%,2015-16,Multiple Indicator Cluster Survey,Lower Secondary
-CRI,Costa Rica,LAC,LAC,Upper middle income (UM),74%,60%,81%,46%,99%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),4%,1%,7%,0%,16%,2016,Multiple Indicator Cluster Survey,Lower Secondary
-CUB,Cuba,LAC,LAC,Upper middle income (UM),4%,0%,7%,16%,0%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1%,0%,2%,0%,2%,2017-18,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Lower Secondary
-DJI,Djibouti,SSA,ESA,Lower middle income (LM),7%,2%,11%,2%,36%,2012,Multiple Indicator Cluster Survey,Lower Secondary
-DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),25%,12%,30%,0%,75%,2014,ENSANUT,Lower Secondary
-ECU,Ecuador,LAC,LAC,Upper middle income (UM),43%,19%,55%,NA,NA,2018,"2015 Household Income, Expenditure and Consumption Survey",Lower Secondary
-EGY,Egypt,MENA,MENA,Lower middle income (LM),18%,9%,32%,NA,NA,2015,Multiple Indicator Cluster Survey,Lower Secondary
-GMB,Gambia,SSA,WCA,Low income (L),66%,47%,76%,25%,94%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-GEO,Georgia,ECA,EECA,Upper middle income (UM),85%,73%,93%,54%,99%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-GHA,Ghana,SSA,WCA,Lower middle income (LM),16%,10%,25%,3%,49%,2017-18,Demographic and Health Survey,Lower Secondary
-GTM,Guatemala,LAC,LAC,Upper middle income (UM),10%,3%,20%,0%,49%,2014-15,Multiple Indicator Cluster Survey,Lower Secondary
-GNB,Guinea-Bissau,SSA,WCA,Low income (L),2%,1%,3%,0%,5%,2018-19,Demographic and Health Survey,Lower Secondary
-HTI,Haiti,LAC,LAC,Low income (L),22%,13%,38%,0%,71%,2016-17,Demographic and Health Survey,Lower Secondary
-IND,India,SA,SA,Lower middle income (LM),8%,5%,16%,0%,35%,2015-16,SUSENAS,Lower Secondary
-IDN,Indonesia,EAP,EAP,Lower middle income (LM),20%,11%,28%,7%,47%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-IRQ,Iraq,MENA,MENA,Upper middle income (UM),50%,36%,57%,16%,84%,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Lower Secondary
-JPN,Japan,EAP,EAP,High income (H),78%,77%,79%,64%,88%,2018,The Japan Household Panel Survey,Lower Secondary
-JOR,Jordan,MENA,MENA,Upper middle income (UM),41%,38%,41%,23%,73%,2017-18,Demographic and Health Survey,Lower Secondary
-KEN,Kenya,SSA,ESA,Lower middle income (LM),33%,NA,24%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Lower Secondary
-KIR,Kiribati,EAP,EAP,Lower middle income (LM),50%,34%,68%,14%,89%,2018-19,Multiple Indicator Cluster Survey,Lower Secondary
-KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),74%,69%,84%,56%,90%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),1%,1%,3%,0%,5%,2017,Multiple Indicator Cluster Survey,Lower Secondary
-LSO,Lesotho,SSA,ESA,Lower middle income (LM),31%,21%,54%,8%,71%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-MDG,Madagascar,SSA,ESA,Low income (L),11%,7%,27%,0%,47%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-MDV,Maldives,SA,SA,Upper middle income (UM),68%,69%,66%,52%,87%,2016-17,Demographic and Health Survey,Lower Secondary
-MLI,Mali,SSA,WCA,Low income (L),7%,4%,17%,0%,26%,2015,Multiple Indicator Cluster Survey,Lower Secondary
-MRT,Mauritania,SSA,WCA,Lower middle income (LM),3%,1%,6%,0%,11%,2015,Multiple Indicator Cluster Survey,Lower Secondary
-MEX,Mexico,LAC,LAC,Upper middle income (UM),43%,12%,54%,NA,NA,2018,ENSANUT,Lower Secondary
-MNG,Mongolia,EAP,EAP,Lower middle income (LM),32%,10%,45%,2%,93%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-MNE,Montenegro,ECA,EECA,Upper middle income (UM),84%,73%,89%,55%,98%,2018-19,Multiple Indicator Cluster Survey,Lower Secondary
-MAR,Morocco,MENA,MENA,Lower middle income (LM),19%,12%,26%,NA,NA,2010,Morocco Household and Youth Survey 2010,Lower Secondary
-NAM,Namibia,SSA,ESA,Upper middle income (UM),8%,1%,19%,0%,38%,2013,Demographic and Health Survey,Lower Secondary
-NPL,Nepal,SA,SA,Low income (L),44%,27%,53%,13%,88%,2076,Multiple Indicator Cluster Survey,Lower Secondary
-NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4%,NA,NA,NA,NA,2011-12,Nicaragua National Demographic and Health Survey 2011-2012,Lower Secondary
-NER,Niger,SSA,WCA,Low income (L),4%,NA,NA,NA,NA,2014-15,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Lower Secondary
-NGA,Nigeria,SSA,WCA,Lower middle income (LM),3%,NA,NA,NA,NA,2018-2019,"General Household Survey, Panel 2018-2019, Wave 4",Lower Secondary
-PAK,Pakistan,SA,SA,Lower middle income (LM),9%,4%,20%,0%,47%,2017,Demographic and Health Survey,Lower Secondary
-PAN,Panama,LAC,LAC,High income (H),33%,11%,48%,4%,92%,2013,Multiple Indicator Cluster Survey,Lower Secondary
-PER,Peru,LAC,LAC,Upper middle income (UM),25%,1%,34%,NA,NA,2019,ENDES,Lower Secondary
-RUS,Russian Federation,ECA,EECA,Upper middle income (UM),86%,79%,94%,88%,100%,2018,"Russia Longitudinal Monitoring Survey, 2018",Lower Secondary
-LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),50%,52%,44%,15%,NA,2012,Multiple Indicator Cluster Survey,Lower Secondary
-STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),46%,37%,50%,20%,81%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-SEN,Senegal,SSA,WCA,Lower middle income (LM),6%,3%,11%,1%,22%,2017,Demographic and Health Survey,Lower Secondary
-SRB,Serbia,ECA,EECA,Upper middle income (UM),94%,90%,96%,65%,100%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-SLE,Sierra Leone,SSA,WCA,Low income (L),14%,4%,26%,0%,38%,2017,Multiple Indicator Cluster Survey,Lower Secondary
-SOM,Somalia,SSA,ESA,Low income (L),13%,NA,NA,NA,NA,2017-18,Somalia High Frequency Survey,Lower Secondary
-ZAF,South Africa,SSA,ESA,Upper middle income (UM),20%,NA,NA,NA,NA,2014-15,South Africa Living Conditions Survey 2014-15,Lower Secondary
-SSD,South Sudan,SSA,ESA,Low income (L),0%,0%,1%,0%,2%,2010,Multiple Indicator Cluster Survey,Lower Secondary
-LKA,Sri Lanka,SA,SA,Upper middle income (UM),69%,67%,84%,71%,99%,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Lower Secondary
-SDN,Sudan,SSA,ESA,Lower middle income (LM),3%,1%,9%,0%,18%,2014,Multiple Indicator Cluster Survey,Lower Secondary
-SUR,Suriname,LAC,LAC,Upper middle income (UM),50%,35%,57%,19%,91%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-TJK,Tajikistan,ECA,EECA,Low income (L),23%,19%,37%,7%,44%,2017,Demographic and Health Survey,Lower Secondary
-THA,Thailand,EAP,EAP,Upper middle income (UM),75%,70%,82%,51%,98%,2562,Multiple Indicator Cluster Survey,Lower Secondary
-MKD,North Macedonia,ECA,EECA,Upper middle income (UM),92%,91%,92%,68%,100%,2018-19,Multiple Indicator Cluster Survey,Lower Secondary
-TGO,Togo,SSA,WCA,Low income (L),24%,8%,49%,0%,78%,2017,Multiple Indicator Cluster Survey,Lower Secondary
-TON,Tonga,EAP,EAP,Upper middle income (UM),92%,91%,93%,83%,97%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-TTO,Trinidad and Tobago,LAC,LAC,High income (H),47%,38%,54%,4%,93%,2011,Multiple Indicator Cluster Survey,Lower Secondary
-TUN,Tunisia,MENA,MENA,Lower middle income (LM),41%,22%,50%,15%,85%,2018,Multiple Indicator Cluster Survey,Lower Secondary
-TUR,Turkey,ECA,EECA,Upper middle income (UM),39%,14%,47%,2%,94%,2013,Demographic and Health Survey,Lower Secondary
-TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),47%,36%,59%,30%,80%,2019,Multiple Indicator Cluster Survey,Lower Secondary
-UGA,Uganda,SSA,ESA,Low income (L),0%,0%,1%,0%,1%,2015,LSMS,Lower Secondary
-UKR,Ukraine,ECA,EECA,Lower middle income (LM),66%,NA,66%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Lower Secondary
-GBR,United Kingdom,ECA,WE,High income (H),99%,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Lower Secondary
-URY,Uruguay,LAC,LAC,High income (H),66%,46%,68%,28%,NA,2012-99,Multiple Indicator Cluster Survey,Lower Secondary
-UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),18%,14%,31%,1%,70%,2017,UNICEF Nutrition Survey 2017,Lower Secondary
-VNM,Viet Nam,EAP,EAP,Lower middle income (LM),62%,NA,62%,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Lower Secondary
-ZMB,Zambia,SSA,ESA,Lower middle income (LM),8%,2%,16%,0%,31%,2018-19,Demographic and Health Survey,Lower Secondary
-ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),24%,17%,50%,4%,65%,2018-19,Multiple Indicator Cluster Survey,Lower Secondary
-AGO,Angola,SSA,ESA,Lower middle income (LM),24%,2%,33%,0%,69%,2015-16,Demographic and Health Survey,UpperSecondary
-ARG,Argentina,LAC,LAC,Upper middle income (UM),45%,NA,NA,NA,NA,2011-12,Multiple Indicator Cluster Survey,UpperSecondary
-ARM,Armenia,ECA,EECA,Upper middle income (UM),85%,78%,91%,54%,100%,2015-16,Demographic and Health Survey,UpperSecondary
-BGD,Bangladesh,SA,SA,Lower middle income (LM),42%,38%,57%,13%,79%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-BRB,Barbados,LAC,LAC,High income (H),76%,76%,76%,4%,100%,2012,Multiple Indicator Cluster Survey,UpperSecondary
-BEN,Benin,SSA,WCA,Low income (L),5%,2%,10%,0%,21%,2017-18,Demographic and Health Survey,UpperSecondary
-BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),70%,65%,81%,13%,98%,2011-12,Multiple Indicator Cluster Survey,UpperSecondary
-BRA,Brazil,LAC,LAC,Upper middle income (UM),84%,55%,90%,84%,96%,2018,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",UpperSecondary
-BGR,Bulgaria,ECA,EECA,Upper middle income (UM),83%,83%,83%,52%,94%,2013,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,UpperSecondary
-BFA,Burkina Faso,SSA,WCA,Low income (L),2%,0%,5%,0%,6%,2010,Demographic and Health Survey,UpperSecondary
-CMR,Cameroon,SSA,WCA,Lower middle income (LM),7%,0%,12%,0%,28%,2014,Multiple Indicator Cluster Survey,UpperSecondary
-CAF,Central African Republic,SSA,WCA,Low income (L),6%,1%,12%,0%,19%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-TCD,Chad,SSA,WCA,Low income (L),3%,1%,12%,0%,12%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-CHL,Chile,LAC,LAC,High income (H),87%,72%,90%,75%,98%,2017,CASEN,UpperSecondary
-CHN,China,EAP,EAP,Upper middle income (UM),76%,58%,91%,NA,92%,2018,CHARLS 2018,UpperSecondary
-COL,Colombia,LAC,LAC,Upper middle income (UM),43%,7%,54%,2%,99%,2015-16,Demographic and Health Survey,UpperSecondary
-CRI,Costa Rica,LAC,LAC,Upper middle income (UM),77%,60%,86%,46%,100%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),3%,2%,5%,0%,12%,2016,Multiple Indicator Cluster Survey,UpperSecondary
-CUB,Cuba,LAC,LAC,Upper middle income (UM),4%,1%,5%,13%,0%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1%,0%,3%,0%,3%,2017-18,Multiple Indicator Cluster Survey,UpperSecondary
-DJI,Djibouti,SSA,ESA,Lower middle income (LM),9%,2%,16%,2%,40%,2012,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,UpperSecondary
-DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),27%,11%,32%,0%,80%,2014,Multiple Indicator Cluster Survey,UpperSecondary
-GMB,Gambia,SSA,WCA,Low income (L),72%,51%,80%,29%,94%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-GEO,Georgia,ECA,EECA,Upper middle income (UM),88%,75%,96%,55%,100%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-GHA,Ghana,SSA,WCA,Lower middle income (LM),20%,13%,28%,3%,52%,2017-18,Multiple Indicator Cluster Survey,UpperSecondary
-GTM,Guatemala,LAC,LAC,Upper middle income (UM),12%,4%,24%,0%,52%,2014-15,Demographic and Health Survey,UpperSecondary
-GNB,Guinea-Bissau,SSA,WCA,Low income (L),3%,2%,4%,0%,4%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-HTI,Haiti,LAC,LAC,Low income (L),26%,15%,41%,0%,64%,2016-17,Demographic and Health Survey,UpperSecondary
-IND,India,SA,SA,Lower middle income (LM),12%,7%,21%,1%,42%,2015-16,Demographic and Health Survey,UpperSecondary
-IDN,Indonesia,EAP,EAP,Lower middle income (LM),23%,13%,30%,8%,48%,2019,SUSENAS,UpperSecondary
-IRQ,Iraq,MENA,MENA,Upper middle income (UM),56%,43%,62%,15%,86%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-ITA,Italy,ECA,WE,High income (H),75%,NA,NA,NA,NA,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,UpperSecondary
-JPN,Japan,EAP,EAP,High income (H),88%,88%,87%,55%,94%,2018,The Japan Household Panel Survey,UpperSecondary
-JOR,Jordan,MENA,MENA,Upper middle income (UM),42%,41%,42%,25%,73%,2017-18,Demographic and Health Survey,UpperSecondary
-KEN,Kenya,SSA,ESA,Lower middle income (LM),39%,NA,29%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),UpperSecondary
-KIR,Kiribati,EAP,EAP,Lower middle income (LM),59%,36%,77%,17%,90%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),77%,72%,86%,60%,93%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),2%,1%,4%,0%,5%,2017,Multiple Indicator Cluster Survey,UpperSecondary
-LSO,Lesotho,SSA,ESA,Lower middle income (LM),38%,29%,56%,8%,74%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-MDG,Madagascar,SSA,ESA,Low income (L),16%,10%,35%,0%,54%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-MDV,Maldives,SA,SA,Upper middle income (UM),73%,70%,77%,56%,96%,2016-17,Demographic and Health Survey,UpperSecondary
-MLI,Mali,SSA,WCA,Low income (L),8%,4%,17%,0%,27%,2015,Multiple Indicator Cluster Survey,UpperSecondary
-MRT,Mauritania,SSA,WCA,Lower middle income (LM),4%,1%,7%,0%,13%,2015,Multiple Indicator Cluster Survey,UpperSecondary
-MNG,Mongolia,EAP,EAP,Lower middle income (LM),38%,10%,51%,1%,95%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-MNE,Montenegro,ECA,EECA,Upper middle income (UM),82%,76%,85%,52%,100%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-MAR,Morocco,MENA,MENA,Lower middle income (LM),19%,12%,25%,NA,NA,2010,Morocco Household and Youth Survey 2010,UpperSecondary
-NAM,Namibia,SSA,ESA,Upper middle income (UM),9%,1%,17%,0%,34%,2013,Demographic and Health Survey,UpperSecondary
-NPL,Nepal,SA,SA,Low income (L),49%,34%,57%,18%,90%,2076,Multiple Indicator Cluster Survey,UpperSecondary
-NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4%,NA,NA,NA,NA,2011-12,Nicaragua National Demographic and Health Survey 2011-2012,UpperSecondary
-NER,Niger,SSA,WCA,Low income (L),6%,NA,NA,NA,NA,2014-15,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",UpperSecondary
-NGA,Nigeria,SSA,WCA,Lower middle income (LM),4%,NA,NA,NA,NA,2018-2019,"General Household Survey, Panel 2018-2019, Wave 4",UpperSecondary
-PAK,Pakistan,SA,SA,Lower middle income (LM),10%,4%,22%,0%,49%,2017,Demographic and Health Survey,UpperSecondary
-PAN,Panama,LAC,LAC,High income (H),38%,15%,51%,8%,97%,2013,Multiple Indicator Cluster Survey,UpperSecondary
-RUS,Russian Federation,ECA,EECA,Upper middle income (UM),90%,77%,96%,90%,100%,2018,"Russia Longitudinal Monitoring Survey, 2018",UpperSecondary
-LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),51%,53%,43%,7%,NA,2012,Multiple Indicator Cluster Survey,UpperSecondary
-STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),46%,37%,51%,25%,70%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-SEN,Senegal,SSA,WCA,Lower middle income (LM),7%,3%,12%,1%,23%,2017,Demographic and Health Survey,UpperSecondary
-SRB,Serbia,ECA,EECA,Upper middle income (UM),95%,91%,97%,74%,100%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-SLE,Sierra Leone,SSA,WCA,Low income (L),18%,5%,29%,0%,43%,2017,Multiple Indicator Cluster Survey,UpperSecondary
-SOM,Somalia,SSA,ESA,Low income (L),14%,NA,NA,NA,NA,2017-18,Somalia High Frequency Survey,UpperSecondary
-ZAF,South Africa,SSA,ESA,Upper middle income (UM),18%,NA,NA,NA,NA,2014-15,South Africa Living Conditions Survey 2014-15,UpperSecondary
-SSD,South Sudan,SSA,ESA,Low income (L),1%,0%,1%,0%,2%,2010,Multiple Indicator Cluster Survey,UpperSecondary
-LKA,Sri Lanka,SA,SA,Upper middle income (UM),73%,70%,89%,74%,99%,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),UpperSecondary
-SDN,Sudan,SSA,ESA,Lower middle income (LM),5%,2%,12%,0%,21%,2014,Multiple Indicator Cluster Survey,UpperSecondary
-SUR,Suriname,LAC,LAC,Upper middle income (UM),55%,44%,59%,24%,94%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-TJK,Tajikistan,ECA,EECA,Low income (L),26%,21%,42%,8%,51%,2017,Demographic and Health Survey,UpperSecondary
-THA,Thailand,EAP,EAP,Upper middle income (UM),77%,73%,83%,60%,97%,2562,Multiple Indicator Cluster Survey,UpperSecondary
-MKD,North Macedonia,ECA,EECA,Upper middle income (UM),93%,92%,94%,75%,100%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-TGO,Togo,SSA,WCA,Low income (L),31%,11%,56%,0%,80%,2017,Multiple Indicator Cluster Survey,UpperSecondary
-TON,Tonga,EAP,EAP,Upper middle income (UM),91%,89%,96%,85%,93%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-TTO,Trinidad and Tobago,LAC,LAC,High income (H),51%,41%,60%,7%,97%,2011,Multiple Indicator Cluster Survey,UpperSecondary
-TUN,Tunisia,MENA,MENA,Lower middle income (LM),45%,26%,54%,19%,88%,2018,Multiple Indicator Cluster Survey,UpperSecondary
-TUR,Turkey,ECA,EECA,Upper middle income (UM),40%,16%,47%,2%,92%,2013,Demographic and Health Survey,UpperSecondary
-TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),52%,43%,64%,39%,84%,2019,Multiple Indicator Cluster Survey,UpperSecondary
-UGA,Uganda,SSA,ESA,Low income (L),1%,0%,4%,0%,3%,2015,LSMS,UpperSecondary
-UKR,Ukraine,ECA,EECA,Lower middle income (LM),79%,NA,79%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),UpperSecondary
-GBR,United Kingdom,ECA,WE,High income (H),99%,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",UpperSecondary
-URY,Uruguay,LAC,LAC,High income (H),70%,48%,73%,53%,NA,2012-99,Multiple Indicator Cluster Survey,UpperSecondary
-UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),22%,17%,38%,0%,70%,2017,UNICEF Nutrition Survey 2017,UpperSecondary
-VNM,Viet Nam,EAP,EAP,Lower middle income (LM),67%,NA,67%,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),UpperSecondary
-ZMB,Zambia,SSA,ESA,Lower middle income (LM),7%,3%,14%,0%,28%,2018-19,Demographic and Health Survey,UpperSecondary
-ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),29%,20%,51%,5%,64%,2018-19,Multiple Indicator Cluster Survey,UpperSecondary
-DZA,Algeria,MENA,MENA,Upper middle income (UM),19%,10%,25%,1%,72%,2018-19,Demographic and Health Survey,Pre-Primary
-AGO,Angola,SSA,ESA,Lower middle income (LM),12%,1%,19%,0%,58%,2015-16,Multiple Indicator Cluster Survey,Pre-Primary
-ARG,Argentina,LAC,LAC,Upper middle income (UM),34%,NA,NA,NA,NA,2011-12,Demographic and Health Survey,Pre-Primary
-ARM,Armenia,ECA,EECA,Upper middle income (UM),77%,67%,84%,45%,98%,2015-16,Multiple Indicator Cluster Survey,Pre-Primary
-BGD,Bangladesh,SA,SA,Lower middle income (LM),37%,33%,52%,8%,76%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-BRB,Barbados,LAC,LAC,High income (H),61%,60%,62%,2%,96%,2012,Demographic and Health Survey,Pre-Primary
-BEN,Benin,SSA,WCA,Low income (L),3%,1%,6%,0%,17%,2017-18,EDSA,Pre-Primary
-BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),12%,4%,17%,NA,NA,2016,Multiple Indicator Cluster Survey,Pre-Primary
-BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),50%,39%,73%,3%,95%,2011-12,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Pre-Primary
-BRA,Brazil,LAC,LAC,Upper middle income (UM),82%,49%,89%,84%,100%,2018,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Pre-Primary
-BGR,Bulgaria,ECA,EECA,Upper middle income (UM),72%,41%,79%,25%,96%,2013,Demographic and Health Survey,Pre-Primary
-BFA,Burkina Faso,SSA,WCA,Low income (L),1%,1%,2%,1%,5%,2010,Multiple Indicator Cluster Survey,Pre-Primary
-CMR,Cameroon,SSA,WCA,Lower middle income (LM),4%,0%,9%,0%,23%,2014,Multiple Indicator Cluster Survey,Pre-Primary
-CAF,Central African Republic,SSA,WCA,Low income (L),3%,1%,8%,0%,15%,2018-19,Multiple Indicator Cluster Survey,Pre-Primary
-TCD,Chad,SSA,WCA,Low income (L),2%,1%,7%,0%,8%,2019,CASEN,Pre-Primary
-CHL,Chile,LAC,LAC,High income (H),85%,70%,87%,71%,98%,2017,CHARLS 2018,Pre-Primary
-CHN,China,EAP,EAP,Upper middle income (UM),21%,10%,86%,NA,NA,2018,Demographic and Health Survey,Pre-Primary
-COL,Colombia,LAC,LAC,Upper middle income (UM),31%,4%,42%,1%,98%,2015-16,Multiple Indicator Cluster Survey,Pre-Primary
-CRI,Costa Rica,LAC,LAC,Upper middle income (UM),72%,62%,78%,49%,96%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),2%,0%,5%,0%,13%,2016,Multiple Indicator Cluster Survey,Pre-Primary
-CUB,Cuba,LAC,LAC,Upper middle income (UM),4%,2%,5%,11%,0%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1%,0%,1%,0%,2%,2017-18,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Pre-Primary
-DJI,Djibouti,SSA,ESA,Lower middle income (LM),4%,1%,8%,1%,21%,2012,Multiple Indicator Cluster Survey,Pre-Primary
-DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),21%,9%,25%,0%,74%,2014,ENSANUT,Pre-Primary
-ECU,Ecuador,LAC,LAC,Upper middle income (UM),39%,19%,49%,NA,NA,2018,"2015 Household Income, Expenditure and Consumption Survey",Pre-Primary
-EGY,Egypt,MENA,MENA,Lower middle income (LM),14%,9%,23%,NA,NA,2015,Multiple Indicator Cluster Survey,Pre-Primary
-GMB,Gambia,SSA,WCA,Low income (L),63%,47%,73%,24%,94%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-GEO,Georgia,ECA,EECA,Upper middle income (UM),85%,73%,93%,53%,99%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-GHA,Ghana,SSA,WCA,Lower middle income (LM),16%,9%,26%,3%,52%,2017-18,Demographic and Health Survey,Pre-Primary
-GTM,Guatemala,LAC,LAC,Upper middle income (UM),6%,2%,14%,0%,38%,2014-15,Multiple Indicator Cluster Survey,Pre-Primary
-GNB,Guinea-Bissau,SSA,WCA,Low income (L),3%,2%,4%,0%,4%,2018-19,Demographic and Health Survey,Pre-Primary
-HTI,Haiti,LAC,LAC,Low income (L),18%,10%,34%,0%,66%,2016-17,Demographic and Health Survey,Pre-Primary
-IND,India,SA,SA,Lower middle income (LM),7%,4%,15%,0%,34%,2015-16,SUSENAS,Pre-Primary
-IDN,Indonesia,EAP,EAP,Lower middle income (LM),16%,8%,23%,5%,41%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-IRQ,Iraq,MENA,MENA,Upper middle income (UM),48%,33%,54%,13%,84%,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Pre-Primary
-JPN,Japan,EAP,EAP,High income (H),66%,82%,65%,67%,69%,2018,The Japan Household Panel Survey,Pre-Primary
-JOR,Jordan,MENA,MENA,Upper middle income (UM),34%,31%,34%,21%,68%,2017-18,Demographic and Health Survey,Pre-Primary
-KEN,Kenya,SSA,ESA,Lower middle income (LM),29%,NA,23%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Pre-Primary
-KIR,Kiribati,EAP,EAP,Lower middle income (LM),49%,32%,68%,16%,83%,2018-19,Multiple Indicator Cluster Survey,Pre-Primary
-KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),74%,70%,85%,52%,93%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),2%,1%,4%,0%,6%,2017,Multiple Indicator Cluster Survey,Pre-Primary
-LSO,Lesotho,SSA,ESA,Lower middle income (LM),32%,21%,54%,6%,73%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-MDG,Madagascar,SSA,ESA,Low income (L),8%,4%,24%,0%,41%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-MDV,Maldives,SA,SA,Upper middle income (UM),69%,68%,69%,48%,92%,2016-17,Demographic and Health Survey,Pre-Primary
-MLI,Mali,SSA,WCA,Low income (L),4%,3%,11%,0%,21%,2015,Multiple Indicator Cluster Survey,Pre-Primary
-MRT,Mauritania,SSA,WCA,Lower middle income (LM),3%,1%,5%,0%,11%,2015,Multiple Indicator Cluster Survey,Pre-Primary
-MEX,Mexico,LAC,LAC,Upper middle income (UM),36%,9%,48%,NA,NA,2018,ENSANUT,Pre-Primary
-MNG,Mongolia,EAP,EAP,Lower middle income (LM),39%,16%,50%,3%,92%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-MNE,Montenegro,ECA,EECA,Upper middle income (UM),82%,73%,87%,52%,100%,2018-19,Multiple Indicator Cluster Survey,Pre-Primary
-MAR,Morocco,MENA,MENA,Lower middle income (LM),17%,12%,22%,NA,NA,2010,Morocco Household and Youth Survey 2010,Pre-Primary
-NAM,Namibia,SSA,ESA,Upper middle income (UM),6%,1%,13%,0%,33%,2013,Demographic and Health Survey,Pre-Primary
-NPL,Nepal,SA,SA,Low income (L),51%,37%,58%,18%,92%,2076,Multiple Indicator Cluster Survey,Pre-Primary
-NIC,Nicaragua,LAC,LAC,Lower middle income (LM),3%,NA,NA,NA,NA,2011-12,Nicaragua National Demographic and Health Survey 2011-2012,Pre-Primary
-NER,Niger,SSA,WCA,Low income (L),2%,NA,NA,NA,NA,2014-15,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Pre-Primary
-NGA,Nigeria,SSA,WCA,Lower middle income (LM),2%,NA,NA,NA,NA,2018-2019,"General Household Survey, Panel 2018-2019, Wave 4",Pre-Primary
-PAK,Pakistan,SA,SA,Lower middle income (LM),9%,4%,19%,0%,45%,2017,Demographic and Health Survey,Pre-Primary
-PAN,Panama,LAC,LAC,High income (H),27%,6%,41%,3%,92%,2013,Multiple Indicator Cluster Survey,Pre-Primary
-PER,Peru,LAC,LAC,Upper middle income (UM),26%,1%,34%,NA,NA,2019,ENDES,Pre-Primary
-RUS,Russian Federation,ECA,EECA,Upper middle income (UM),89%,77%,96%,89%,100%,2018,"Russia Longitudinal Monitoring Survey, 2018",Pre-Primary
-LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),48%,51%,33%,13%,NA,2012,Multiple Indicator Cluster Survey,Pre-Primary
-STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),43%,37%,46%,22%,74%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-SEN,Senegal,SSA,WCA,Lower middle income (LM),4%,2%,9%,0%,18%,2017,Demographic and Health Survey,Pre-Primary
-SRB,Serbia,ECA,EECA,Upper middle income (UM),94%,90%,97%,74%,100%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-SLE,Sierra Leone,SSA,WCA,Low income (L),11%,4%,24%,0%,38%,2017,Multiple Indicator Cluster Survey,Pre-Primary
-SOM,Somalia,SSA,ESA,Low income (L),14%,NA,NA,NA,NA,2017-18,Somalia High Frequency Survey,Pre-Primary
-ZAF,South Africa,SSA,ESA,Upper middle income (UM),19%,NA,NA,NA,NA,2014-15,South Africa Living Conditions Survey 2014-15,Pre-Primary
-SSD,South Sudan,SSA,ESA,Low income (L),0%,0%,1%,0%,2%,2010,Multiple Indicator Cluster Survey,Pre-Primary
-LKA,Sri Lanka,SA,SA,Upper middle income (UM),73%,70%,87%,71%,100%,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Pre-Primary
-SDN,Sudan,SSA,ESA,Lower middle income (LM),3%,1%,7%,0%,15%,2014,Multiple Indicator Cluster Survey,Pre-Primary
-SUR,Suriname,LAC,LAC,Upper middle income (UM),48%,37%,54%,23%,92%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-TJK,Tajikistan,ECA,EECA,Low income (L),24%,20%,38%,4%,46%,2017,Demographic and Health Survey,Pre-Primary
-THA,Thailand,EAP,EAP,Upper middle income (UM),68%,65%,73%,45%,94%,2562,Multiple Indicator Cluster Survey,Pre-Primary
-MKD,North Macedonia,ECA,EECA,Upper middle income (UM),93%,91%,94%,70%,100%,2018-19,Multiple Indicator Cluster Survey,Pre-Primary
-TGO,Togo,SSA,WCA,Low income (L),22%,7%,49%,0%,77%,2017,Multiple Indicator Cluster Survey,Pre-Primary
-TON,Tonga,EAP,EAP,Upper middle income (UM),92%,91%,95%,83%,98%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-TTO,Trinidad and Tobago,LAC,LAC,High income (H),37%,30%,42%,3%,97%,2011,Multiple Indicator Cluster Survey,Pre-Primary
-TUN,Tunisia,MENA,MENA,Lower middle income (LM),35%,19%,43%,6%,78%,2018,Multiple Indicator Cluster Survey,Pre-Primary
-TUR,Turkey,ECA,EECA,Upper middle income (UM),31%,13%,37%,2%,83%,2013,Demographic and Health Survey,Pre-Primary
-TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),46%,38%,57%,31%,75%,2019,Multiple Indicator Cluster Survey,Pre-Primary
-UGA,Uganda,SSA,ESA,Low income (L),1%,0%,3%,0%,3%,2015,LSMS,Pre-Primary
-UKR,Ukraine,ECA,EECA,Lower middle income (LM),61%,NA,61%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Pre-Primary
-GBR,United Kingdom,ECA,WE,High income (H),99%,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Pre-Primary
-URY,Uruguay,LAC,LAC,High income (H),51%,36%,53%,17%,NA,2012-99,Multiple Indicator Cluster Survey,Pre-Primary
-UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),18%,15%,26%,2%,69%,2017,UNICEF Nutrition Survey 2017,Pre-Primary
-VNM,Viet Nam,EAP,EAP,Lower middle income (LM),63%,NA,63%,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Pre-Primary
-ZMB,Zambia,SSA,ESA,Lower middle income (LM),5%,1%,12%,0%,28%,2018-19,Demographic and Health Survey,Pre-Primary
-ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),28%,19%,51%,5%,65%,2018-19,Multiple Indicator Cluster Survey,Pre-Primary
-AGO,Angola,SSA,ESA,Lower middle income (LM),15%,2%,22%,0%,61%,2015-16,Demographic and Health Survey,Primary
-ARG,Argentina,LAC,LAC,Upper middle income (UM),39%,NA,NA,NA,NA,2011-12,Multiple Indicator Cluster Survey,Primary
-ARM,Armenia,ECA,EECA,Upper middle income (UM),81%,69%,89%,46%,99%,2015-16,Demographic and Health Survey,Primary
-BGD,Bangladesh,SA,SA,Lower middle income (LM),34%,30%,49%,7%,75%,2019,Multiple Indicator Cluster Survey,Primary
-BRB,Barbados,LAC,LAC,High income (H),63%,54%,68%,9%,97%,2012,Multiple Indicator Cluster Survey,Primary
-BEN,Benin,SSA,WCA,Low income (L),3%,1%,6%,0%,14%,2017-18,Demographic and Health Survey,Primary
-BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),11%,4%,15%,NA,NA,2016,EDSA,Primary
-BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),51%,43%,68%,3%,95%,2011-12,Multiple Indicator Cluster Survey,Primary
-BRA,Brazil,LAC,LAC,Upper middle income (UM),82%,49%,88%,86%,100%,2018,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Primary
-BGR,Bulgaria,ECA,EECA,Upper middle income (UM),73%,65%,77%,24%,98%,2013,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Primary
-BFA,Burkina Faso,SSA,WCA,Low income (L),1%,1%,3%,1%,4%,2010,Demographic and Health Survey,Primary
-CMR,Cameroon,SSA,WCA,Lower middle income (LM),4%,0%,9%,0%,22%,2014,Multiple Indicator Cluster Survey,Primary
-CAF,Central African Republic,SSA,WCA,Low income (L),3%,1%,8%,0%,15%,2018-19,Multiple Indicator Cluster Survey,Primary
-TCD,Chad,SSA,WCA,Low income (L),2%,1%,8%,0%,9%,2019,Multiple Indicator Cluster Survey,Primary
-CHL,Chile,LAC,LAC,High income (H),86%,69%,88%,71%,99%,2017,CASEN,Primary
-CHN,China,EAP,EAP,Upper middle income (UM),62%,53%,91%,NA,NA,2018,CHARLS 2018,Primary
-COL,Colombia,LAC,LAC,Upper middle income (UM),33%,4%,45%,1%,98%,2015-16,Demographic and Health Survey,Primary
-CRI,Costa Rica,LAC,LAC,Upper middle income (UM),70%,61%,74%,44%,99%,2018,Multiple Indicator Cluster Survey,Primary
-CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),2%,0%,5%,0%,13%,2016,Multiple Indicator Cluster Survey,Primary
-CUB,Cuba,LAC,LAC,Upper middle income (UM),5%,2%,6%,16%,0%,2019,Multiple Indicator Cluster Survey,Primary
-COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1%,0%,2%,0%,3%,2017-18,Multiple Indicator Cluster Survey,Primary
-DJI,Djibouti,SSA,ESA,Lower middle income (LM),4%,1%,8%,1%,32%,2012,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Primary
-DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),24%,9%,29%,0%,78%,2014,Multiple Indicator Cluster Survey,Primary
-ECU,Ecuador,LAC,LAC,Upper middle income (UM),40%,19%,50%,NA,NA,2018,ENSANUT,Primary
-EGY,Egypt,MENA,MENA,Lower middle income (LM),16%,9%,27%,NA,NA,2015,"2015 Household Income, Expenditure and Consumption Survey",Primary
-GMB,Gambia,SSA,WCA,Low income (L),64%,46%,74%,25%,93%,2018,Multiple Indicator Cluster Survey,Primary
-GEO,Georgia,ECA,EECA,Upper middle income (UM),84%,70%,93%,46%,99%,2018,Multiple Indicator Cluster Survey,Primary
-GHA,Ghana,SSA,WCA,Lower middle income (LM),16%,10%,25%,2%,52%,2017-18,Multiple Indicator Cluster Survey,Primary
-GTM,Guatemala,LAC,LAC,Upper middle income (UM),8%,2%,16%,0%,43%,2014-15,Demographic and Health Survey,Primary
-GNB,Guinea-Bissau,SSA,WCA,Low income (L),2%,1%,4%,0%,5%,2018-19,Multiple Indicator Cluster Survey,Primary
-HTI,Haiti,LAC,LAC,Low income (L),18%,10%,33%,0%,60%,2016-17,Demographic and Health Survey,Primary
-IND,India,SA,SA,Lower middle income (LM),7%,4%,14%,0%,33%,2015-16,Demographic and Health Survey,Primary
-IDN,Indonesia,EAP,EAP,Lower middle income (LM),17%,9%,24%,5%,44%,2019,SUSENAS,Primary
-IRQ,Iraq,MENA,MENA,Upper middle income (UM),46%,33%,53%,14%,83%,2018,Multiple Indicator Cluster Survey,Primary
-ITA,Italy,ECA,WE,High income (H),63%,NA,NA,NA,NA,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Primary
-JPN,Japan,EAP,EAP,High income (H),75%,81%,74%,62%,85%,2018,The Japan Household Panel Survey,Primary
-JOR,Jordan,MENA,MENA,Upper middle income (UM),36%,33%,36%,23%,72%,2017-18,Demographic and Health Survey,Primary
-KEN,Kenya,SSA,ESA,Lower middle income (LM),30%,NA,22%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Primary
-KIR,Kiribati,EAP,EAP,Lower middle income (LM),50%,32%,66%,12%,86%,2018-19,Multiple Indicator Cluster Survey,Primary
-KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),72%,69%,81%,53%,89%,2018,Multiple Indicator Cluster Survey,Primary
-LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),1%,1%,4%,0%,5%,2017,Multiple Indicator Cluster Survey,Primary
-LSO,Lesotho,SSA,ESA,Lower middle income (LM),30%,21%,50%,5%,68%,2018,Multiple Indicator Cluster Survey,Primary
-MDG,Madagascar,SSA,ESA,Low income (L),9%,5%,24%,0%,44%,2018,Multiple Indicator Cluster Survey,Primary
-MDV,Maldives,SA,SA,Upper middle income (UM),70%,68%,74%,49%,94%,2016-17,Demographic and Health Survey,Primary
-MLI,Mali,SSA,WCA,Low income (L),5%,3%,13%,0%,21%,2015,Multiple Indicator Cluster Survey,Primary
-MRT,Mauritania,SSA,WCA,Lower middle income (LM),3%,1%,6%,0%,11%,2015,Multiple Indicator Cluster Survey,Primary
-MEX,Mexico,LAC,LAC,Upper middle income (UM),37%,10%,47%,NA,NA,2018,ENSANUT,Primary
-MNG,Mongolia,EAP,EAP,Lower middle income (LM),37%,13%,50%,2%,94%,2018,Multiple Indicator Cluster Survey,Primary
-MNE,Montenegro,ECA,EECA,Upper middle income (UM),80%,71%,84%,43%,100%,2018-19,Multiple Indicator Cluster Survey,Primary
-MAR,Morocco,MENA,MENA,Lower middle income (LM),16%,11%,20%,NA,NA,2010,Morocco Household and Youth Survey 2010,Primary
-NAM,Namibia,SSA,ESA,Upper middle income (UM),6%,1%,14%,0%,32%,2013,Demographic and Health Survey,Primary
-NPL,Nepal,SA,SA,Low income (L),46%,31%,54%,15%,85%,2076,Multiple Indicator Cluster Survey,Primary
-NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4%,NA,NA,NA,NA,2011-12,Nicaragua National Demographic and Health Survey 2011-2012,Primary
-NER,Niger,SSA,WCA,Low income (L),2%,NA,NA,NA,NA,2014-15,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Primary
-NGA,Nigeria,SSA,WCA,Lower middle income (LM),3%,NA,NA,NA,NA,2018-2019,"General Household Survey, Panel 2018-2019, Wave 4",Primary
-PAK,Pakistan,SA,SA,Lower middle income (LM),8%,4%,18%,0%,45%,2017,Demographic and Health Survey,Primary
-PAN,Panama,LAC,LAC,High income (H),27%,8%,40%,2%,95%,2013,Multiple Indicator Cluster Survey,Primary
-PER,Peru,LAC,LAC,Upper middle income (UM),25%,1%,33%,NA,NA,2019,ENDES,Primary
-RUS,Russian Federation,ECA,EECA,Upper middle income (UM),88%,82%,90%,88%,NA,2018,"Russia Longitudinal Monitoring Survey, 2018",Primary
-LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),44%,44%,47%,12%,NA,2012,Multiple Indicator Cluster Survey,Primary
-STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),44%,37%,47%,18%,75%,2019,Multiple Indicator Cluster Survey,Primary
-SEN,Senegal,SSA,WCA,Lower middle income (LM),5%,2%,9%,1%,20%,2017,Demographic and Health Survey,Primary
-SRB,Serbia,ECA,EECA,Upper middle income (UM),95%,94%,96%,71%,100%,2019,Multiple Indicator Cluster Survey,Primary
-SLE,Sierra Leone,SSA,WCA,Low income (L),12%,3%,24%,0%,38%,2017,Multiple Indicator Cluster Survey,Primary
-SOM,Somalia,SSA,ESA,Low income (L),12%,NA,NA,NA,NA,2017-18,Somalia High Frequency Survey,Primary
-ZAF,South Africa,SSA,ESA,Upper middle income (UM),18%,NA,NA,NA,NA,2014-15,South Africa Living Conditions Survey 2014-15,Primary
-SSD,South Sudan,SSA,ESA,Low income (L),0%,0%,1%,0%,2%,2010,Multiple Indicator Cluster Survey,Primary
-LKA,Sri Lanka,SA,SA,Upper middle income (UM),67%,64%,85%,70%,99%,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Primary
-SDN,Sudan,SSA,ESA,Lower middle income (LM),3%,1%,8%,0%,17%,2014,Multiple Indicator Cluster Survey,Primary
-SUR,Suriname,LAC,LAC,Upper middle income (UM),49%,35%,56%,21%,94%,2018,Multiple Indicator Cluster Survey,Primary
-TJK,Tajikistan,ECA,EECA,Low income (L),23%,19%,37%,5%,44%,2017,Demographic and Health Survey,Primary
-THA,Thailand,EAP,EAP,Upper middle income (UM),68%,65%,75%,42%,95%,2562,Multiple Indicator Cluster Survey,Primary
-MKD,North Macedonia,ECA,EECA,Upper middle income (UM),91%,88%,93%,67%,100%,2018-19,Multiple Indicator Cluster Survey,Primary
-TGO,Togo,SSA,WCA,Low income (L),20%,6%,47%,0%,78%,2017,Multiple Indicator Cluster Survey,Primary
-TON,Tonga,EAP,EAP,Upper middle income (UM),90%,89%,94%,82%,94%,2019,Multiple Indicator Cluster Survey,Primary
-TTO,Trinidad and Tobago,LAC,LAC,High income (H),42%,32%,51%,2%,97%,2011,Multiple Indicator Cluster Survey,Primary
-TUN,Tunisia,MENA,MENA,Lower middle income (LM),36%,20%,44%,11%,82%,2018,Multiple Indicator Cluster Survey,Primary
-TUR,Turkey,ECA,EECA,Upper middle income (UM),33%,14%,39%,2%,91%,2013,Demographic and Health Survey,Primary
-TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),44%,35%,56%,32%,74%,2019,Multiple Indicator Cluster Survey,Primary
-UGA,Uganda,SSA,ESA,Low income (L),0%,0%,1%,0%,1%,2015,LSMS,Primary
-UKR,Ukraine,ECA,EECA,Lower middle income (LM),73%,NA,73%,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Primary
-GBR,United Kingdom,ECA,WE,High income (H),99%,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Primary
-URY,Uruguay,LAC,LAC,High income (H),63%,53%,64%,37%,NA,2012-99,Multiple Indicator Cluster Survey,Primary
-UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),19%,16%,26%,0%,69%,2017,UNICEF Nutrition Survey 2017,Primary
-VNM,Viet Nam,EAP,EAP,Lower middle income (LM),58%,NA,58%,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Primary
-ZMB,Zambia,SSA,ESA,Lower middle income (LM),6%,2%,12%,0%,28%,2018-19,Demographic and Health Survey,Primary
-ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),25%,16%,48%,4%,60%,2018-19,Multiple Indicator Cluster Survey,Primary
+iso3,countries_and_areas,region,sub_region,income_group,total,rural,urban,poorest,richest,time_period,data_source,school_level
+DZA,Algeria,MENA,MENA,Upper middle income (UM),25,10,33,1,78,2018,Demographic and Health Survey,Lower Secondary
+AGO,Angola,SSA,ESA,Lower middle income (LM),19,2,27,0,62,2015,Multiple Indicator Cluster Survey,Lower Secondary
+ARG,Argentina,LAC,LAC,Upper middle income (UM),43,NA,NA,NA,NA,2011,Demographic and Health Survey,Lower Secondary
+ARM,Armenia,ECA,EECA,Upper middle income (UM),81,71,89,44,99,2015,Multiple Indicator Cluster Survey,Lower Secondary
+BGD,Bangladesh,SA,SA,Lower middle income (LM),34,31,48,8,73,2019,Multiple Indicator Cluster Survey,Lower Secondary
+BRB,Barbados,LAC,LAC,High income (H),68,66,69,20,100,2012,Demographic and Health Survey,Lower Secondary
+BEN,Benin,SSA,WCA,Low income (L),4,2,7,0,16,2017,EDSA,Lower Secondary
+BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),12,3,17,NA,NA,2016,Multiple Indicator Cluster Survey,Lower Secondary
+BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),61,52,79,11,95,2011,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Lower Secondary
+BRA,Brazil,LAC,LAC,Upper middle income (UM),82,50,89,84,97,2018,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Lower Secondary
+BGR,Bulgaria,ECA,EECA,Upper middle income (UM),81,74,84,39,100,2013,Demographic and Health Survey,Lower Secondary
+BFA,Burkina Faso,SSA,WCA,Low income (L),2,1,5,1,6,2010,Multiple Indicator Cluster Survey,Lower Secondary
+CMR,Cameroon,SSA,WCA,Lower middle income (LM),5,0,10,0,23,2014,Multiple Indicator Cluster Survey,Lower Secondary
+CAF,Central African Republic,SSA,WCA,Low income (L),5,1,11,0,18,2018,Multiple Indicator Cluster Survey,Lower Secondary
+TCD,Chad,SSA,WCA,Low income (L),2,1,8,0,9,2019,CASEN,Lower Secondary
+CHL,Chile,LAC,LAC,High income (H),87,71,90,75,99,2017,CHARLS 2018,Lower Secondary
+CHN,China,EAP,EAP,Upper middle income (UM),64,51,91,NA,NA,2018,Demographic and Health Survey,Lower Secondary
+COL,Colombia,LAC,LAC,Upper middle income (UM),39,6,51,1,99,2015,Multiple Indicator Cluster Survey,Lower Secondary
+CRI,Costa Rica,LAC,LAC,Upper middle income (UM),74,60,81,46,99,2018,Multiple Indicator Cluster Survey,Lower Secondary
+CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),4,1,7,0,16,2016,Multiple Indicator Cluster Survey,Lower Secondary
+CUB,Cuba,LAC,LAC,Upper middle income (UM),4,0,7,16,0,2019,Multiple Indicator Cluster Survey,Lower Secondary
+COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1,0,2,0,2,2017,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Lower Secondary
+DJI,Djibouti,SSA,ESA,Lower middle income (LM),7,2,11,2,36,2012,Multiple Indicator Cluster Survey,Lower Secondary
+DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),25,12,30,0,75,2014,ENSANUT,Lower Secondary
+ECU,Ecuador,LAC,LAC,Upper middle income (UM),43,19,55,NA,NA,2018,"2015 Household Income, Expenditure and Consumption Survey",Lower Secondary
+EGY,Egypt,MENA,MENA,Lower middle income (LM),18,9,32,NA,NA,2015,Multiple Indicator Cluster Survey,Lower Secondary
+GMB,Gambia,SSA,WCA,Low income (L),66,47,76,25,94,2018,Multiple Indicator Cluster Survey,Lower Secondary
+GEO,Georgia,ECA,EECA,Upper middle income (UM),85,73,93,54,99,2018,Multiple Indicator Cluster Survey,Lower Secondary
+GHA,Ghana,SSA,WCA,Lower middle income (LM),16,10,25,3,49,2017,Demographic and Health Survey,Lower Secondary
+GTM,Guatemala,LAC,LAC,Upper middle income (UM),10,3,20,0,49,2014,Multiple Indicator Cluster Survey,Lower Secondary
+GNB,Guinea-Bissau,SSA,WCA,Low income (L),2,1,3,0,5,2018,Demographic and Health Survey,Lower Secondary
+HTI,Haiti,LAC,LAC,Low income (L),22,13,38,0,71,2016,Demographic and Health Survey,Lower Secondary
+IND,India,SA,SA,Lower middle income (LM),8,5,16,0,35,2015,SUSENAS,Lower Secondary
+IDN,Indonesia,EAP,EAP,Lower middle income (LM),20,11,28,7,47,2019,Multiple Indicator Cluster Survey,Lower Secondary
+IRQ,Iraq,MENA,MENA,Upper middle income (UM),50,36,57,16,84,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Lower Secondary
+JPN,Japan,EAP,EAP,High income (H),78,77,79,64,88,2018,The Japan Household Panel Survey,Lower Secondary
+JOR,Jordan,MENA,MENA,Upper middle income (UM),41,38,41,23,73,2017,Demographic and Health Survey,Lower Secondary
+KEN,Kenya,SSA,ESA,Lower middle income (LM),33,NA,24,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Lower Secondary
+KIR,Kiribati,EAP,EAP,Lower middle income (LM),50,34,68,14,89,2018,Multiple Indicator Cluster Survey,Lower Secondary
+KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),74,69,84,56,90,2018,Multiple Indicator Cluster Survey,Lower Secondary
+LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),1,1,3,0,5,2017,Multiple Indicator Cluster Survey,Lower Secondary
+LSO,Lesotho,SSA,ESA,Lower middle income (LM),31,21,54,8,71,2018,Multiple Indicator Cluster Survey,Lower Secondary
+MDG,Madagascar,SSA,ESA,Low income (L),11,7,27,0,47,2018,Multiple Indicator Cluster Survey,Lower Secondary
+MDV,Maldives,SA,SA,Upper middle income (UM),68,69,66,52,87,2016,Demographic and Health Survey,Lower Secondary
+MLI,Mali,SSA,WCA,Low income (L),7,4,17,0,26,2015,Multiple Indicator Cluster Survey,Lower Secondary
+MRT,Mauritania,SSA,WCA,Lower middle income (LM),3,1,6,0,11,2015,Multiple Indicator Cluster Survey,Lower Secondary
+MEX,Mexico,LAC,LAC,Upper middle income (UM),43,12,54,NA,NA,2018,ENSANUT,Lower Secondary
+MNG,Mongolia,EAP,EAP,Lower middle income (LM),32,10,45,2,93,2018,Multiple Indicator Cluster Survey,Lower Secondary
+MNE,Montenegro,ECA,EECA,Upper middle income (UM),84,73,89,55,98,2018,Multiple Indicator Cluster Survey,Lower Secondary
+MAR,Morocco,MENA,MENA,Lower middle income (LM),19,12,26,NA,NA,2010,Morocco Household and Youth Survey 2010,Lower Secondary
+NAM,Namibia,SSA,ESA,Upper middle income (UM),8,1,19,0,38,2013,Demographic and Health Survey,Lower Secondary
+NPL,Nepal,SA,SA,Low income (L),44,27,53,13,88,2019,Multiple Indicator Cluster Survey,Lower Secondary
+NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4,NA,NA,NA,NA,2011,Nicaragua National Demographic and Health Survey 2011-2012,Lower Secondary
+NER,Niger,SSA,WCA,Low income (L),4,NA,NA,NA,NA,2014,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Lower Secondary
+NGA,Nigeria,SSA,WCA,Lower middle income (LM),3,NA,NA,NA,NA,2018,"General Household Survey, Panel 2018-2019, Wave 4",Lower Secondary
+PAK,Pakistan,SA,SA,Lower middle income (LM),9,4,20,0,47,2017,Demographic and Health Survey,Lower Secondary
+PAN,Panama,LAC,LAC,High income (H),33,11,48,4,92,2013,Multiple Indicator Cluster Survey,Lower Secondary
+PER,Peru,LAC,LAC,Upper middle income (UM),25,1,34,NA,NA,2019,ENDES,Lower Secondary
+RUS,Russian Federation,ECA,EECA,Upper middle income (UM),86,79,94,88,100,2018,"Russia Longitudinal Monitoring Survey, 2018",Lower Secondary
+LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),50,52,44,15,NA,2012,Multiple Indicator Cluster Survey,Lower Secondary
+STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),46,37,50,20,81,2019,Multiple Indicator Cluster Survey,Lower Secondary
+SEN,Senegal,SSA,WCA,Lower middle income (LM),6,3,11,1,22,2017,Demographic and Health Survey,Lower Secondary
+SRB,Serbia,ECA,EECA,Upper middle income (UM),94,90,96,65,100,2019,Multiple Indicator Cluster Survey,Lower Secondary
+SLE,Sierra Leone,SSA,WCA,Low income (L),14,4,26,0,38,2017,Multiple Indicator Cluster Survey,Lower Secondary
+SOM,Somalia,SSA,ESA,Low income (L),13,NA,NA,NA,NA,2017,Somalia High Frequency Survey,Lower Secondary
+ZAF,South Africa,SSA,ESA,Upper middle income (UM),20,NA,NA,NA,NA,2014,South Africa Living Conditions Survey 2014-15,Lower Secondary
+SSD,South Sudan,SSA,ESA,Low income (L),0,0,1,0,2,2010,Multiple Indicator Cluster Survey,Lower Secondary
+LKA,Sri Lanka,SA,SA,Upper middle income (UM),69,67,84,71,99,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Lower Secondary
+SDN,Sudan,SSA,ESA,Lower middle income (LM),3,1,9,0,18,2014,Multiple Indicator Cluster Survey,Lower Secondary
+SUR,Suriname,LAC,LAC,Upper middle income (UM),50,35,57,19,91,2018,Multiple Indicator Cluster Survey,Lower Secondary
+TJK,Tajikistan,ECA,EECA,Low income (L),23,19,37,7,44,2017,Demographic and Health Survey,Lower Secondary
+THA,Thailand,EAP,EAP,Upper middle income (UM),75,70,82,51,98,2019,Multiple Indicator Cluster Survey,Lower Secondary
+MKD,North Macedonia,ECA,EECA,Upper middle income (UM),92,91,92,68,100,2018,Multiple Indicator Cluster Survey,Lower Secondary
+TGO,Togo,SSA,WCA,Low income (L),24,8,49,0,78,2017,Multiple Indicator Cluster Survey,Lower Secondary
+TON,Tonga,EAP,EAP,Upper middle income (UM),92,91,93,83,97,2019,Multiple Indicator Cluster Survey,Lower Secondary
+TTO,Trinidad and Tobago,LAC,LAC,High income (H),47,38,54,4,93,2011,Multiple Indicator Cluster Survey,Lower Secondary
+TUN,Tunisia,MENA,MENA,Lower middle income (LM),41,22,50,15,85,2018,Multiple Indicator Cluster Survey,Lower Secondary
+TUR,Turkey,ECA,EECA,Upper middle income (UM),39,14,47,2,94,2013,Demographic and Health Survey,Lower Secondary
+TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),47,36,59,30,80,2019,Multiple Indicator Cluster Survey,Lower Secondary
+UGA,Uganda,SSA,ESA,Low income (L),0,0,1,0,1,2015,LSMS,Lower Secondary
+UKR,Ukraine,ECA,EECA,Lower middle income (LM),66,NA,66,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Lower Secondary
+GBR,United Kingdom,ECA,WE,High income (H),99,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Lower Secondary
+URY,Uruguay,LAC,LAC,High income (H),66,46,68,28,NA,2012,Multiple Indicator Cluster Survey,Lower Secondary
+UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),18,14,31,1,70,2017,UNICEF Nutrition Survey 2017,Lower Secondary
+VNM,Viet Nam,EAP,EAP,Lower middle income (LM),62,NA,62,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Lower Secondary
+ZMB,Zambia,SSA,ESA,Lower middle income (LM),8,2,16,0,31,2018,Demographic and Health Survey,Lower Secondary
+ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),24,17,50,4,65,2018,Multiple Indicator Cluster Survey,Lower Secondary
+AGO,Angola,SSA,ESA,Lower middle income (LM),24,2,33,0,69,2015,Demographic and Health Survey,Upper Secondary
+ARG,Argentina,LAC,LAC,Upper middle income (UM),45,NA,NA,NA,NA,2011,Multiple Indicator Cluster Survey,Upper Secondary
+ARM,Armenia,ECA,EECA,Upper middle income (UM),85,78,91,54,100,2015,Demographic and Health Survey,Upper Secondary
+BGD,Bangladesh,SA,SA,Lower middle income (LM),42,38,57,13,79,2019,Multiple Indicator Cluster Survey,Upper Secondary
+BRB,Barbados,LAC,LAC,High income (H),76,76,76,4,100,2012,Multiple Indicator Cluster Survey,Upper Secondary
+BEN,Benin,SSA,WCA,Low income (L),5,2,10,0,21,2017,Demographic and Health Survey,Upper Secondary
+BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),70,65,81,13,98,2011,Multiple Indicator Cluster Survey,Upper Secondary
+BRA,Brazil,LAC,LAC,Upper middle income (UM),84,55,90,84,96,2018,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Upper Secondary
+BGR,Bulgaria,ECA,EECA,Upper middle income (UM),83,83,83,52,94,2013,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Upper Secondary
+BFA,Burkina Faso,SSA,WCA,Low income (L),2,0,5,0,6,2010,Demographic and Health Survey,Upper Secondary
+CMR,Cameroon,SSA,WCA,Lower middle income (LM),7,0,12,0,28,2014,Multiple Indicator Cluster Survey,Upper Secondary
+CAF,Central African Republic,SSA,WCA,Low income (L),6,1,12,0,19,2018,Multiple Indicator Cluster Survey,Upper Secondary
+TCD,Chad,SSA,WCA,Low income (L),3,1,12,0,12,2019,Multiple Indicator Cluster Survey,Upper Secondary
+CHL,Chile,LAC,LAC,High income (H),87,72,90,75,98,2017,CASEN,Upper Secondary
+CHN,China,EAP,EAP,Upper middle income (UM),76,58,91,NA,92,2018,CHARLS 2018,Upper Secondary
+COL,Colombia,LAC,LAC,Upper middle income (UM),43,7,54,2,99,2015,Demographic and Health Survey,Upper Secondary
+CRI,Costa Rica,LAC,LAC,Upper middle income (UM),77,60,86,46,100,2018,Multiple Indicator Cluster Survey,Upper Secondary
+CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),3,2,5,0,12,2016,Multiple Indicator Cluster Survey,Upper Secondary
+CUB,Cuba,LAC,LAC,Upper middle income (UM),4,1,5,13,0,2019,Multiple Indicator Cluster Survey,Upper Secondary
+COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1,0,3,0,3,2017,Multiple Indicator Cluster Survey,Upper Secondary
+DJI,Djibouti,SSA,ESA,Lower middle income (LM),9,2,16,2,40,2012,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Upper Secondary
+DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),27,11,32,0,80,2014,Multiple Indicator Cluster Survey,Upper Secondary
+GMB,Gambia,SSA,WCA,Low income (L),72,51,80,29,94,2018,Multiple Indicator Cluster Survey,Upper Secondary
+GEO,Georgia,ECA,EECA,Upper middle income (UM),88,75,96,55,100,2018,Multiple Indicator Cluster Survey,Upper Secondary
+GHA,Ghana,SSA,WCA,Lower middle income (LM),20,13,28,3,52,2017,Multiple Indicator Cluster Survey,Upper Secondary
+GTM,Guatemala,LAC,LAC,Upper middle income (UM),12,4,24,0,52,2014,Demographic and Health Survey,Upper Secondary
+GNB,Guinea-Bissau,SSA,WCA,Low income (L),3,2,4,0,4,2018,Multiple Indicator Cluster Survey,Upper Secondary
+HTI,Haiti,LAC,LAC,Low income (L),26,15,41,0,64,2016,Demographic and Health Survey,Upper Secondary
+IND,India,SA,SA,Lower middle income (LM),12,7,21,1,42,2015,Demographic and Health Survey,Upper Secondary
+IDN,Indonesia,EAP,EAP,Lower middle income (LM),23,13,30,8,48,2019,SUSENAS,Upper Secondary
+IRQ,Iraq,MENA,MENA,Upper middle income (UM),56,43,62,15,86,2018,Multiple Indicator Cluster Survey,Upper Secondary
+ITA,Italy,ECA,WE,High income (H),75,NA,NA,NA,NA,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Upper Secondary
+JPN,Japan,EAP,EAP,High income (H),88,88,87,55,94,2018,The Japan Household Panel Survey,Upper Secondary
+JOR,Jordan,MENA,MENA,Upper middle income (UM),42,41,42,25,73,2017,Demographic and Health Survey,Upper Secondary
+KEN,Kenya,SSA,ESA,Lower middle income (LM),39,NA,29,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Upper Secondary
+KIR,Kiribati,EAP,EAP,Lower middle income (LM),59,36,77,17,90,2018,Multiple Indicator Cluster Survey,Upper Secondary
+KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),77,72,86,60,93,2018,Multiple Indicator Cluster Survey,Upper Secondary
+LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),2,1,4,0,5,2017,Multiple Indicator Cluster Survey,Upper Secondary
+LSO,Lesotho,SSA,ESA,Lower middle income (LM),38,29,56,8,74,2018,Multiple Indicator Cluster Survey,Upper Secondary
+MDG,Madagascar,SSA,ESA,Low income (L),16,10,35,0,54,2018,Multiple Indicator Cluster Survey,Upper Secondary
+MDV,Maldives,SA,SA,Upper middle income (UM),73,70,77,56,96,2016,Demographic and Health Survey,Upper Secondary
+MLI,Mali,SSA,WCA,Low income (L),8,4,17,0,27,2015,Multiple Indicator Cluster Survey,Upper Secondary
+MRT,Mauritania,SSA,WCA,Lower middle income (LM),4,1,7,0,13,2015,Multiple Indicator Cluster Survey,Upper Secondary
+MNG,Mongolia,EAP,EAP,Lower middle income (LM),38,10,51,1,95,2018,Multiple Indicator Cluster Survey,Upper Secondary
+MNE,Montenegro,ECA,EECA,Upper middle income (UM),82,76,85,52,100,2018,Multiple Indicator Cluster Survey,Upper Secondary
+MAR,Morocco,MENA,MENA,Lower middle income (LM),19,12,25,NA,NA,2010,Morocco Household and Youth Survey 2010,Upper Secondary
+NAM,Namibia,SSA,ESA,Upper middle income (UM),9,1,17,0,34,2013,Demographic and Health Survey,Upper Secondary
+NPL,Nepal,SA,SA,Low income (L),49,34,57,18,90,2019,Multiple Indicator Cluster Survey,Upper Secondary
+NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4,NA,NA,NA,NA,2011,Nicaragua National Demographic and Health Survey 2011-2012,Upper Secondary
+NER,Niger,SSA,WCA,Low income (L),6,NA,NA,NA,NA,2014,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Upper Secondary
+NGA,Nigeria,SSA,WCA,Lower middle income (LM),4,NA,NA,NA,NA,2018,"General Household Survey, Panel 2018-2019, Wave 4",Upper Secondary
+PAK,Pakistan,SA,SA,Lower middle income (LM),10,4,22,0,49,2017,Demographic and Health Survey,Upper Secondary
+PAN,Panama,LAC,LAC,High income (H),38,15,51,8,97,2013,Multiple Indicator Cluster Survey,Upper Secondary
+RUS,Russian Federation,ECA,EECA,Upper middle income (UM),90,77,96,90,100,2018,"Russia Longitudinal Monitoring Survey, 2018",Upper Secondary
+LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),51,53,43,7,NA,2012,Multiple Indicator Cluster Survey,Upper Secondary
+STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),46,37,51,25,70,2019,Multiple Indicator Cluster Survey,Upper Secondary
+SEN,Senegal,SSA,WCA,Lower middle income (LM),7,3,12,1,23,2017,Demographic and Health Survey,Upper Secondary
+SRB,Serbia,ECA,EECA,Upper middle income (UM),95,91,97,74,100,2019,Multiple Indicator Cluster Survey,Upper Secondary
+SLE,Sierra Leone,SSA,WCA,Low income (L),18,5,29,0,43,2017,Multiple Indicator Cluster Survey,Upper Secondary
+SOM,Somalia,SSA,ESA,Low income (L),14,NA,NA,NA,NA,2017,Somalia High Frequency Survey,Upper Secondary
+ZAF,South Africa,SSA,ESA,Upper middle income (UM),18,NA,NA,NA,NA,2014,South Africa Living Conditions Survey 2014-15,Upper Secondary
+SSD,South Sudan,SSA,ESA,Low income (L),1,0,1,0,2,2010,Multiple Indicator Cluster Survey,Upper Secondary
+LKA,Sri Lanka,SA,SA,Upper middle income (UM),73,70,89,74,99,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Upper Secondary
+SDN,Sudan,SSA,ESA,Lower middle income (LM),5,2,12,0,21,2014,Multiple Indicator Cluster Survey,Upper Secondary
+SUR,Suriname,LAC,LAC,Upper middle income (UM),55,44,59,24,94,2018,Multiple Indicator Cluster Survey,Upper Secondary
+TJK,Tajikistan,ECA,EECA,Low income (L),26,21,42,8,51,2017,Demographic and Health Survey,Upper Secondary
+THA,Thailand,EAP,EAP,Upper middle income (UM),77,73,83,60,97,2019,Multiple Indicator Cluster Survey,Upper Secondary
+MKD,North Macedonia,ECA,EECA,Upper middle income (UM),93,92,94,75,100,2018,Multiple Indicator Cluster Survey,Upper Secondary
+TGO,Togo,SSA,WCA,Low income (L),31,11,56,0,80,2017,Multiple Indicator Cluster Survey,Upper Secondary
+TON,Tonga,EAP,EAP,Upper middle income (UM),91,89,96,85,93,2019,Multiple Indicator Cluster Survey,Upper Secondary
+TTO,Trinidad and Tobago,LAC,LAC,High income (H),51,41,60,7,97,2011,Multiple Indicator Cluster Survey,Upper Secondary
+TUN,Tunisia,MENA,MENA,Lower middle income (LM),45,26,54,19,88,2018,Multiple Indicator Cluster Survey,Upper Secondary
+TUR,Turkey,ECA,EECA,Upper middle income (UM),40,16,47,2,92,2013,Demographic and Health Survey,Upper Secondary
+TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),52,43,64,39,84,2019,Multiple Indicator Cluster Survey,Upper Secondary
+UGA,Uganda,SSA,ESA,Low income (L),1,0,4,0,3,2015,LSMS,Upper Secondary
+UKR,Ukraine,ECA,EECA,Lower middle income (LM),79,NA,79,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Upper Secondary
+GBR,United Kingdom,ECA,WE,High income (H),99,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Upper Secondary
+URY,Uruguay,LAC,LAC,High income (H),70,48,73,53,NA,2012,Multiple Indicator Cluster Survey,Upper Secondary
+UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),22,17,38,0,70,2017,UNICEF Nutrition Survey 2017,Upper Secondary
+VNM,Viet Nam,EAP,EAP,Lower middle income (LM),67,NA,67,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Upper Secondary
+ZMB,Zambia,SSA,ESA,Lower middle income (LM),7,3,14,0,28,2018,Demographic and Health Survey,Upper Secondary
+ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),29,20,51,5,64,2018,Multiple Indicator Cluster Survey,Upper Secondary
+DZA,Algeria,MENA,MENA,Upper middle income (UM),19,10,25,1,72,2018,Demographic and Health Survey,Pre-Primary
+AGO,Angola,SSA,ESA,Lower middle income (LM),12,1,19,0,58,2015,Multiple Indicator Cluster Survey,Pre-Primary
+ARG,Argentina,LAC,LAC,Upper middle income (UM),34,NA,NA,NA,NA,2011,Demographic and Health Survey,Pre-Primary
+ARM,Armenia,ECA,EECA,Upper middle income (UM),77,67,84,45,98,2015,Multiple Indicator Cluster Survey,Pre-Primary
+BGD,Bangladesh,SA,SA,Lower middle income (LM),37,33,52,8,76,2019,Multiple Indicator Cluster Survey,Pre-Primary
+BRB,Barbados,LAC,LAC,High income (H),61,60,62,2,96,2012,Demographic and Health Survey,Pre-Primary
+BEN,Benin,SSA,WCA,Low income (L),3,1,6,0,17,2017,EDSA,Pre-Primary
+BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),12,4,17,NA,NA,2016,Multiple Indicator Cluster Survey,Pre-Primary
+BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),50,39,73,3,95,2011,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Pre-Primary
+BRA,Brazil,LAC,LAC,Upper middle income (UM),82,49,89,84,100,2018,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Pre-Primary
+BGR,Bulgaria,ECA,EECA,Upper middle income (UM),72,41,79,25,96,2013,Demographic and Health Survey,Pre-Primary
+BFA,Burkina Faso,SSA,WCA,Low income (L),1,1,2,1,5,2010,Multiple Indicator Cluster Survey,Pre-Primary
+CMR,Cameroon,SSA,WCA,Lower middle income (LM),4,0,9,0,23,2014,Multiple Indicator Cluster Survey,Pre-Primary
+CAF,Central African Republic,SSA,WCA,Low income (L),3,1,8,0,15,2018,Multiple Indicator Cluster Survey,Pre-Primary
+TCD,Chad,SSA,WCA,Low income (L),2,1,7,0,8,2019,CASEN,Pre-Primary
+CHL,Chile,LAC,LAC,High income (H),85,70,87,71,98,2017,CHARLS 2018,Pre-Primary
+CHN,China,EAP,EAP,Upper middle income (UM),21,10,86,NA,NA,2018,Demographic and Health Survey,Pre-Primary
+COL,Colombia,LAC,LAC,Upper middle income (UM),31,4,42,1,98,2015,Multiple Indicator Cluster Survey,Pre-Primary
+CRI,Costa Rica,LAC,LAC,Upper middle income (UM),72,62,78,49,96,2018,Multiple Indicator Cluster Survey,Pre-Primary
+CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),2,0,5,0,13,2016,Multiple Indicator Cluster Survey,Pre-Primary
+CUB,Cuba,LAC,LAC,Upper middle income (UM),4,2,5,11,0,2019,Multiple Indicator Cluster Survey,Pre-Primary
+COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1,0,1,0,2,2017,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Pre-Primary
+DJI,Djibouti,SSA,ESA,Lower middle income (LM),4,1,8,1,21,2012,Multiple Indicator Cluster Survey,Pre-Primary
+DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),21,9,25,0,74,2014,ENSANUT,Pre-Primary
+ECU,Ecuador,LAC,LAC,Upper middle income (UM),39,19,49,NA,NA,2018,"2015 Household Income, Expenditure and Consumption Survey",Pre-Primary
+EGY,Egypt,MENA,MENA,Lower middle income (LM),14,9,23,NA,NA,2015,Multiple Indicator Cluster Survey,Pre-Primary
+GMB,Gambia,SSA,WCA,Low income (L),63,47,73,24,94,2018,Multiple Indicator Cluster Survey,Pre-Primary
+GEO,Georgia,ECA,EECA,Upper middle income (UM),85,73,93,53,99,2018,Multiple Indicator Cluster Survey,Pre-Primary
+GHA,Ghana,SSA,WCA,Lower middle income (LM),16,9,26,3,52,2017,Demographic and Health Survey,Pre-Primary
+GTM,Guatemala,LAC,LAC,Upper middle income (UM),6,2,14,0,38,2014,Multiple Indicator Cluster Survey,Pre-Primary
+GNB,Guinea-Bissau,SSA,WCA,Low income (L),3,2,4,0,4,2018,Demographic and Health Survey,Pre-Primary
+HTI,Haiti,LAC,LAC,Low income (L),18,10,34,0,66,2016,Demographic and Health Survey,Pre-Primary
+IND,India,SA,SA,Lower middle income (LM),7,4,15,0,34,2015,SUSENAS,Pre-Primary
+IDN,Indonesia,EAP,EAP,Lower middle income (LM),16,8,23,5,41,2019,Multiple Indicator Cluster Survey,Pre-Primary
+IRQ,Iraq,MENA,MENA,Upper middle income (UM),48,33,54,13,84,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Pre-Primary
+JPN,Japan,EAP,EAP,High income (H),66,82,65,67,69,2018,The Japan Household Panel Survey,Pre-Primary
+JOR,Jordan,MENA,MENA,Upper middle income (UM),34,31,34,21,68,2017,Demographic and Health Survey,Pre-Primary
+KEN,Kenya,SSA,ESA,Lower middle income (LM),29,NA,23,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Pre-Primary
+KIR,Kiribati,EAP,EAP,Lower middle income (LM),49,32,68,16,83,2018,Multiple Indicator Cluster Survey,Pre-Primary
+KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),74,70,85,52,93,2018,Multiple Indicator Cluster Survey,Pre-Primary
+LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),2,1,4,0,6,2017,Multiple Indicator Cluster Survey,Pre-Primary
+LSO,Lesotho,SSA,ESA,Lower middle income (LM),32,21,54,6,73,2018,Multiple Indicator Cluster Survey,Pre-Primary
+MDG,Madagascar,SSA,ESA,Low income (L),8,4,24,0,41,2018,Multiple Indicator Cluster Survey,Pre-Primary
+MDV,Maldives,SA,SA,Upper middle income (UM),69,68,69,48,92,2016,Demographic and Health Survey,Pre-Primary
+MLI,Mali,SSA,WCA,Low income (L),4,3,11,0,21,2015,Multiple Indicator Cluster Survey,Pre-Primary
+MRT,Mauritania,SSA,WCA,Lower middle income (LM),3,1,5,0,11,2015,Multiple Indicator Cluster Survey,Pre-Primary
+MEX,Mexico,LAC,LAC,Upper middle income (UM),36,9,48,NA,NA,2018,ENSANUT,Pre-Primary
+MNG,Mongolia,EAP,EAP,Lower middle income (LM),39,16,50,3,92,2018,Multiple Indicator Cluster Survey,Pre-Primary
+MNE,Montenegro,ECA,EECA,Upper middle income (UM),82,73,87,52,100,2018,Multiple Indicator Cluster Survey,Pre-Primary
+MAR,Morocco,MENA,MENA,Lower middle income (LM),17,12,22,NA,NA,2010,Morocco Household and Youth Survey 2010,Pre-Primary
+NAM,Namibia,SSA,ESA,Upper middle income (UM),6,1,13,0,33,2013,Demographic and Health Survey,Pre-Primary
+NPL,Nepal,SA,SA,Low income (L),51,37,58,18,92,2019,Multiple Indicator Cluster Survey,Pre-Primary
+NIC,Nicaragua,LAC,LAC,Lower middle income (LM),3,NA,NA,NA,NA,2011,Nicaragua National Demographic and Health Survey 2011-2012,Pre-Primary
+NER,Niger,SSA,WCA,Low income (L),2,NA,NA,NA,NA,2014,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Pre-Primary
+NGA,Nigeria,SSA,WCA,Lower middle income (LM),2,NA,NA,NA,NA,2018,"General Household Survey, Panel 2018-2019, Wave 4",Pre-Primary
+PAK,Pakistan,SA,SA,Lower middle income (LM),9,4,19,0,45,2017,Demographic and Health Survey,Pre-Primary
+PAN,Panama,LAC,LAC,High income (H),27,6,41,3,92,2013,Multiple Indicator Cluster Survey,Pre-Primary
+PER,Peru,LAC,LAC,Upper middle income (UM),26,1,34,NA,NA,2019,ENDES,Pre-Primary
+RUS,Russian Federation,ECA,EECA,Upper middle income (UM),89,77,96,89,100,2018,"Russia Longitudinal Monitoring Survey, 2018",Pre-Primary
+LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),48,51,33,13,NA,2012,Multiple Indicator Cluster Survey,Pre-Primary
+STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),43,37,46,22,74,2019,Multiple Indicator Cluster Survey,Pre-Primary
+SEN,Senegal,SSA,WCA,Lower middle income (LM),4,2,9,0,18,2017,Demographic and Health Survey,Pre-Primary
+SRB,Serbia,ECA,EECA,Upper middle income (UM),94,90,97,74,100,2019,Multiple Indicator Cluster Survey,Pre-Primary
+SLE,Sierra Leone,SSA,WCA,Low income (L),11,4,24,0,38,2017,Multiple Indicator Cluster Survey,Pre-Primary
+SOM,Somalia,SSA,ESA,Low income (L),14,NA,NA,NA,NA,2017,Somalia High Frequency Survey,Pre-Primary
+ZAF,South Africa,SSA,ESA,Upper middle income (UM),19,NA,NA,NA,NA,2014,South Africa Living Conditions Survey 2014-15,Pre-Primary
+SSD,South Sudan,SSA,ESA,Low income (L),0,0,1,0,2,2010,Multiple Indicator Cluster Survey,Pre-Primary
+LKA,Sri Lanka,SA,SA,Upper middle income (UM),73,70,87,71,100,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Pre-Primary
+SDN,Sudan,SSA,ESA,Lower middle income (LM),3,1,7,0,15,2014,Multiple Indicator Cluster Survey,Pre-Primary
+SUR,Suriname,LAC,LAC,Upper middle income (UM),48,37,54,23,92,2018,Multiple Indicator Cluster Survey,Pre-Primary
+TJK,Tajikistan,ECA,EECA,Low income (L),24,20,38,4,46,2017,Demographic and Health Survey,Pre-Primary
+THA,Thailand,EAP,EAP,Upper middle income (UM),68,65,73,45,94,2019,Multiple Indicator Cluster Survey,Pre-Primary
+MKD,North Macedonia,ECA,EECA,Upper middle income (UM),93,91,94,70,100,2018,Multiple Indicator Cluster Survey,Pre-Primary
+TGO,Togo,SSA,WCA,Low income (L),22,7,49,0,77,2017,Multiple Indicator Cluster Survey,Pre-Primary
+TON,Tonga,EAP,EAP,Upper middle income (UM),92,91,95,83,98,2019,Multiple Indicator Cluster Survey,Pre-Primary
+TTO,Trinidad and Tobago,LAC,LAC,High income (H),37,30,42,3,97,2011,Multiple Indicator Cluster Survey,Pre-Primary
+TUN,Tunisia,MENA,MENA,Lower middle income (LM),35,19,43,6,78,2018,Multiple Indicator Cluster Survey,Pre-Primary
+TUR,Turkey,ECA,EECA,Upper middle income (UM),31,13,37,2,83,2013,Demographic and Health Survey,Pre-Primary
+TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),46,38,57,31,75,2019,Multiple Indicator Cluster Survey,Pre-Primary
+UGA,Uganda,SSA,ESA,Low income (L),1,0,3,0,3,2015,LSMS,Pre-Primary
+UKR,Ukraine,ECA,EECA,Lower middle income (LM),61,NA,61,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Pre-Primary
+GBR,United Kingdom,ECA,WE,High income (H),99,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Pre-Primary
+URY,Uruguay,LAC,LAC,High income (H),51,36,53,17,NA,2012,Multiple Indicator Cluster Survey,Pre-Primary
+UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),18,15,26,2,69,2017,UNICEF Nutrition Survey 2017,Pre-Primary
+VNM,Viet Nam,EAP,EAP,Lower middle income (LM),63,NA,63,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Pre-Primary
+ZMB,Zambia,SSA,ESA,Lower middle income (LM),5,1,12,0,28,2018,Demographic and Health Survey,Pre-Primary
+ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),28,19,51,5,65,2018,Multiple Indicator Cluster Survey,Pre-Primary
+AGO,Angola,SSA,ESA,Lower middle income (LM),15,2,22,0,61,2015,Demographic and Health Survey,Primary
+ARG,Argentina,LAC,LAC,Upper middle income (UM),39,NA,NA,NA,NA,2011,Multiple Indicator Cluster Survey,Primary
+ARM,Armenia,ECA,EECA,Upper middle income (UM),81,69,89,46,99,2015,Demographic and Health Survey,Primary
+BGD,Bangladesh,SA,SA,Lower middle income (LM),34,30,49,7,75,2019,Multiple Indicator Cluster Survey,Primary
+BRB,Barbados,LAC,LAC,High income (H),63,54,68,9,97,2012,Multiple Indicator Cluster Survey,Primary
+BEN,Benin,SSA,WCA,Low income (L),3,1,6,0,14,2017,Demographic and Health Survey,Primary
+BOL,Bolivia (Plurinational State of),LAC,LAC,Lower middle income (LM),11,4,15,NA,NA,2016,EDSA,Primary
+BIH,Bosnia and Herzegovina,ECA,EECA,Upper middle income (UM),51,43,68,3,95,2011,Multiple Indicator Cluster Survey,Primary
+BRA,Brazil,LAC,LAC,Upper middle income (UM),82,49,88,86,100,2018,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",Primary
+BGR,Bulgaria,ECA,EECA,Upper middle income (UM),73,65,77,24,98,2013,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,Primary
+BFA,Burkina Faso,SSA,WCA,Low income (L),1,1,3,1,4,2010,Demographic and Health Survey,Primary
+CMR,Cameroon,SSA,WCA,Lower middle income (LM),4,0,9,0,22,2014,Multiple Indicator Cluster Survey,Primary
+CAF,Central African Republic,SSA,WCA,Low income (L),3,1,8,0,15,2018,Multiple Indicator Cluster Survey,Primary
+TCD,Chad,SSA,WCA,Low income (L),2,1,8,0,9,2019,Multiple Indicator Cluster Survey,Primary
+CHL,Chile,LAC,LAC,High income (H),86,69,88,71,99,2017,CASEN,Primary
+CHN,China,EAP,EAP,Upper middle income (UM),62,53,91,NA,NA,2018,CHARLS 2018,Primary
+COL,Colombia,LAC,LAC,Upper middle income (UM),33,4,45,1,98,2015,Demographic and Health Survey,Primary
+CRI,Costa Rica,LAC,LAC,Upper middle income (UM),70,61,74,44,99,2018,Multiple Indicator Cluster Survey,Primary
+CIV,Côte d'Ivoire,SSA,WCA,Lower middle income (LM),2,0,5,0,13,2016,Multiple Indicator Cluster Survey,Primary
+CUB,Cuba,LAC,LAC,Upper middle income (UM),5,2,6,16,0,2019,Multiple Indicator Cluster Survey,Primary
+COD,Democratic Republic of the Congo,SSA,WCA,Low income (L),1,0,2,0,3,2017,Multiple Indicator Cluster Survey,Primary
+DJI,Djibouti,SSA,ESA,Lower middle income (LM),4,1,8,1,32,2012,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,Primary
+DOM,Dominican Republic,LAC,LAC,Upper middle income (UM),24,9,29,0,78,2014,Multiple Indicator Cluster Survey,Primary
+ECU,Ecuador,LAC,LAC,Upper middle income (UM),40,19,50,NA,NA,2018,ENSANUT,Primary
+EGY,Egypt,MENA,MENA,Lower middle income (LM),16,9,27,NA,NA,2015,"2015 Household Income, Expenditure and Consumption Survey",Primary
+GMB,Gambia,SSA,WCA,Low income (L),64,46,74,25,93,2018,Multiple Indicator Cluster Survey,Primary
+GEO,Georgia,ECA,EECA,Upper middle income (UM),84,70,93,46,99,2018,Multiple Indicator Cluster Survey,Primary
+GHA,Ghana,SSA,WCA,Lower middle income (LM),16,10,25,2,52,2017,Multiple Indicator Cluster Survey,Primary
+GTM,Guatemala,LAC,LAC,Upper middle income (UM),8,2,16,0,43,2014,Demographic and Health Survey,Primary
+GNB,Guinea-Bissau,SSA,WCA,Low income (L),2,1,4,0,5,2018,Multiple Indicator Cluster Survey,Primary
+HTI,Haiti,LAC,LAC,Low income (L),18,10,33,0,60,2016,Demographic and Health Survey,Primary
+IND,India,SA,SA,Lower middle income (LM),7,4,14,0,33,2015,Demographic and Health Survey,Primary
+IDN,Indonesia,EAP,EAP,Lower middle income (LM),17,9,24,5,44,2019,SUSENAS,Primary
+IRQ,Iraq,MENA,MENA,Upper middle income (UM),46,33,53,14,83,2018,Multiple Indicator Cluster Survey,Primary
+ITA,Italy,ECA,WE,High income (H),63,NA,NA,NA,NA,2018,Multiscopo sulle famiglie: aspetti della vita quotidiana,Primary
+JPN,Japan,EAP,EAP,High income (H),75,81,74,62,85,2018,The Japan Household Panel Survey,Primary
+JOR,Jordan,MENA,MENA,Upper middle income (UM),36,33,36,23,72,2017,Demographic and Health Survey,Primary
+KEN,Kenya,SSA,ESA,Lower middle income (LM),30,NA,22,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 2),Primary
+KIR,Kiribati,EAP,EAP,Lower middle income (LM),50,32,66,12,86,2018,Multiple Indicator Cluster Survey,Primary
+KGZ,Kyrgyzstan,ECA,EECA,Lower middle income (LM),72,69,81,53,89,2018,Multiple Indicator Cluster Survey,Primary
+LAO,Lao People's Democratic Republic,EAP,EAP,Lower middle income (LM),1,1,4,0,5,2017,Multiple Indicator Cluster Survey,Primary
+LSO,Lesotho,SSA,ESA,Lower middle income (LM),30,21,50,5,68,2018,Multiple Indicator Cluster Survey,Primary
+MDG,Madagascar,SSA,ESA,Low income (L),9,5,24,0,44,2018,Multiple Indicator Cluster Survey,Primary
+MDV,Maldives,SA,SA,Upper middle income (UM),70,68,74,49,94,2016,Demographic and Health Survey,Primary
+MLI,Mali,SSA,WCA,Low income (L),5,3,13,0,21,2015,Multiple Indicator Cluster Survey,Primary
+MRT,Mauritania,SSA,WCA,Lower middle income (LM),3,1,6,0,11,2015,Multiple Indicator Cluster Survey,Primary
+MEX,Mexico,LAC,LAC,Upper middle income (UM),37,10,47,NA,NA,2018,ENSANUT,Primary
+MNG,Mongolia,EAP,EAP,Lower middle income (LM),37,13,50,2,94,2018,Multiple Indicator Cluster Survey,Primary
+MNE,Montenegro,ECA,EECA,Upper middle income (UM),80,71,84,43,100,2018,Multiple Indicator Cluster Survey,Primary
+MAR,Morocco,MENA,MENA,Lower middle income (LM),16,11,20,NA,NA,2010,Morocco Household and Youth Survey 2010,Primary
+NAM,Namibia,SSA,ESA,Upper middle income (UM),6,1,14,0,32,2013,Demographic and Health Survey,Primary
+NPL,Nepal,SA,SA,Low income (L),46,31,54,15,85,2019,Multiple Indicator Cluster Survey,Primary
+NIC,Nicaragua,LAC,LAC,Lower middle income (LM),4,NA,NA,NA,NA,2011,Nicaragua National Demographic and Health Survey 2011-2012,Primary
+NER,Niger,SSA,WCA,Low income (L),2,NA,NA,NA,NA,2014,"National Survey on Household Living Conditions and Agriculture 2014, Wave 2 Panel Data",Primary
+NGA,Nigeria,SSA,WCA,Lower middle income (LM),3,NA,NA,NA,NA,2018,"General Household Survey, Panel 2018-2019, Wave 4",Primary
+PAK,Pakistan,SA,SA,Lower middle income (LM),8,4,18,0,45,2017,Demographic and Health Survey,Primary
+PAN,Panama,LAC,LAC,High income (H),27,8,40,2,95,2013,Multiple Indicator Cluster Survey,Primary
+PER,Peru,LAC,LAC,Upper middle income (UM),25,1,33,NA,NA,2019,ENDES,Primary
+RUS,Russian Federation,ECA,EECA,Upper middle income (UM),88,82,90,88,NA,2018,"Russia Longitudinal Monitoring Survey, 2018",Primary
+LCA,Saint Lucia,LAC,LAC,Upper middle income (UM),44,44,47,12,NA,2012,Multiple Indicator Cluster Survey,Primary
+STP,Sao Tome and Principe,SSA,WCA,Lower middle income (LM),44,37,47,18,75,2019,Multiple Indicator Cluster Survey,Primary
+SEN,Senegal,SSA,WCA,Lower middle income (LM),5,2,9,1,20,2017,Demographic and Health Survey,Primary
+SRB,Serbia,ECA,EECA,Upper middle income (UM),95,94,96,71,100,2019,Multiple Indicator Cluster Survey,Primary
+SLE,Sierra Leone,SSA,WCA,Low income (L),12,3,24,0,38,2017,Multiple Indicator Cluster Survey,Primary
+SOM,Somalia,SSA,ESA,Low income (L),12,NA,NA,NA,NA,2017,Somalia High Frequency Survey,Primary
+ZAF,South Africa,SSA,ESA,Upper middle income (UM),18,NA,NA,NA,NA,2014,South Africa Living Conditions Survey 2014-15,Primary
+SSD,South Sudan,SSA,ESA,Low income (L),0,0,1,0,2,2010,Multiple Indicator Cluster Survey,Primary
+LKA,Sri Lanka,SA,SA,Upper middle income (UM),67,64,85,70,99,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Primary
+SDN,Sudan,SSA,ESA,Lower middle income (LM),3,1,8,0,17,2014,Multiple Indicator Cluster Survey,Primary
+SUR,Suriname,LAC,LAC,Upper middle income (UM),49,35,56,21,94,2018,Multiple Indicator Cluster Survey,Primary
+TJK,Tajikistan,ECA,EECA,Low income (L),23,19,37,5,44,2017,Demographic and Health Survey,Primary
+THA,Thailand,EAP,EAP,Upper middle income (UM),68,65,75,42,95,2019,Multiple Indicator Cluster Survey,Primary
+MKD,North Macedonia,ECA,EECA,Upper middle income (UM),91,88,93,67,100,2018,Multiple Indicator Cluster Survey,Primary
+TGO,Togo,SSA,WCA,Low income (L),20,6,47,0,78,2017,Multiple Indicator Cluster Survey,Primary
+TON,Tonga,EAP,EAP,Upper middle income (UM),90,89,94,82,94,2019,Multiple Indicator Cluster Survey,Primary
+TTO,Trinidad and Tobago,LAC,LAC,High income (H),42,32,51,2,97,2011,Multiple Indicator Cluster Survey,Primary
+TUN,Tunisia,MENA,MENA,Lower middle income (LM),36,20,44,11,82,2018,Multiple Indicator Cluster Survey,Primary
+TUR,Turkey,ECA,EECA,Upper middle income (UM),33,14,39,2,91,2013,Demographic and Health Survey,Primary
+TKM,Turkmenistan,ECA,EECA,Upper middle income (UM),44,35,56,32,74,2019,Multiple Indicator Cluster Survey,Primary
+UGA,Uganda,SSA,ESA,Low income (L),0,0,1,0,1,2015,LSMS,Primary
+UKR,Ukraine,ECA,EECA,Lower middle income (LM),73,NA,73,NA,NA,2013,STEP Skills Measurement Household Survey 2013 (Wave 1),Primary
+GBR,United Kingdom,ECA,WE,High income (H),99,NA,NA,NA,NA,2016,"UK Data Archive Information for the Study 8298. Statistical Bulletin: Internet Access – Households and Individuals, 2016.",Primary
+URY,Uruguay,LAC,LAC,High income (H),63,53,64,37,NA,2012,Multiple Indicator Cluster Survey,Primary
+UZB,Uzbekistan,ECA,EECA,Lower middle income (LM),19,16,26,0,69,2017,UNICEF Nutrition Survey 2017,Primary
+VNM,Viet Nam,EAP,EAP,Lower middle income (LM),58,NA,58,NA,NA,2012,STEP Skills Measurement Household Survey 2012 (Wave 1),Primary
+ZMB,Zambia,SSA,ESA,Lower middle income (LM),6,2,12,0,28,2018,Demographic and Health Survey,Primary
+ZWE,Zimbabwe,SSA,ESA,Lower middle income (LM),25,16,48,4,60,2018,Multiple Indicator Cluster Survey,Primary
