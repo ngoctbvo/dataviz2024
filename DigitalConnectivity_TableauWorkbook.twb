@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20242.24.0910.0334                               -->
+<workbook original-version='18.1' source-build='2024.2.3 (20242.24.0910.0334)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='StackedDigitalConnectivity' inline='true' name='federated.1o857uh1luchcr1gldtii1uzo5lz' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='StackedDigitalConnectivity' name='textscan.0jkx0dg18v50lm1cljepa051uttq'>
+            <connection class='textscan' directory='/Users/johannajones/Documents/Projects/DataViz2024/dataviz2024' filename='StackedDigitalConnectivity.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0jkx0dg18v50lm1cljepa051uttq' name='StackedDigitalConnectivity.csv' table='[StackedDigitalConnectivity#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_AU' separator=','>
+            <column datatype='string' name='iso3' ordinal='0' />
+            <column datatype='string' name='countries_and_areas' ordinal='1' />
+            <column datatype='string' name='region' ordinal='2' />
+            <column datatype='string' name='sub_region' ordinal='3' />
+            <column datatype='string' name='income_group' ordinal='4' />
+            <column datatype='integer' name='total' ordinal='5' />
+            <column datatype='integer' name='rural' ordinal='6' />
+            <column datatype='integer' name='urban' ordinal='7' />
+            <column datatype='integer' name='poorest' ordinal='8' />
+            <column datatype='integer' name='richest' ordinal='9' />
+            <column datatype='integer' date-parse-format='yyyy' name='time_period' ordinal='10' />
+            <column datatype='string' name='data_source' ordinal='11' />
+            <column datatype='string' name='school_level' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0jkx0dg18v50lm1cljepa051uttq' name='StackedDigitalConnectivity.csv' table='[StackedDigitalConnectivity#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_AU' separator=','>
+            <column datatype='string' name='iso3' ordinal='0' />
+            <column datatype='string' name='countries_and_areas' ordinal='1' />
+            <column datatype='string' name='region' ordinal='2' />
+            <column datatype='string' name='sub_region' ordinal='3' />
+            <column datatype='string' name='income_group' ordinal='4' />
+            <column datatype='integer' name='total' ordinal='5' />
+            <column datatype='integer' name='rural' ordinal='6' />
+            <column datatype='integer' name='urban' ordinal='7' />
+            <column datatype='integer' name='poorest' ordinal='8' />
+            <column datatype='integer' name='richest' ordinal='9' />
+            <column datatype='integer' date-parse-format='yyyy' name='time_period' ordinal='10' />
+            <column datatype='string' name='data_source' ordinal='11' />
+            <column datatype='string' name='school_level' ordinal='12' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_AU&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iso3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[iso3]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>iso3</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>countries_and_areas</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[countries_and_areas]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>countries_and_areas</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[region]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>region</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sub_region</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[sub_region]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>sub_region</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>income_group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[income_group]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>income_group</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>total</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rural</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[rural]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>rural</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>urban</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[urban]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>urban</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>poorest</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[poorest]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>poorest</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>richest</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[richest]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>richest</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>time_period</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[time_period]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>time_period</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>data_source</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[data_source]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>data_source</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>school_level</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[school_level]</local-name>
+            <parent-name>[StackedDigitalConnectivity.csv]</parent-name>
+            <remote-alias>school_level</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='StackedDigitalConnectivity.csv' datatype='table' name='[__tableau_internal_object_id__].[StackedDigitalConnectivity.csv_C54B68FB64A94EB2BE34C520DB6EF53A]' role='measure' type='quantitative' />
+      <column caption='Countries And Areas' datatype='string' name='[countries_and_areas]' role='dimension' type='nominal' />
+      <column caption='Data Source' datatype='string' name='[data_source]' role='dimension' type='nominal' />
+      <column caption='Income Group' datatype='string' name='[income_group]' role='dimension' type='nominal' />
+      <column caption='Iso3' datatype='string' name='[iso3]' role='dimension' type='nominal' />
+      <column caption='Poorest' datatype='integer' name='[poorest]' role='dimension' type='ordinal' />
+      <column caption='Region' datatype='string' name='[region]' role='dimension' type='nominal' />
+      <column caption='Richest' datatype='integer' name='[richest]' role='dimension' type='ordinal' />
+      <column caption='Rural' datatype='integer' name='[rural]' role='dimension' type='ordinal' />
+      <column caption='School Level' datatype='string' name='[school_level]' role='dimension' type='nominal' />
+      <column caption='Sub Region' datatype='string' name='[sub_region]' role='dimension' type='nominal' />
+      <column caption='Time Period' datatype='integer' name='[time_period]' role='dimension' type='quantitative' />
+      <column caption='Total' datatype='integer' name='[total]' role='measure' type='quantitative' />
+      <column caption='Urban' datatype='integer' name='[urban]' role='dimension' type='ordinal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Australia&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='StackedDigitalConnectivity.csv' id='StackedDigitalConnectivity.csv_C54B68FB64A94EB2BE34C520DB6EF53A'>
+            <properties context=''>
+              <relation connection='textscan.0jkx0dg18v50lm1cljepa051uttq' name='StackedDigitalConnectivity.csv' table='[StackedDigitalConnectivity#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_AU' separator=','>
+                  <column datatype='string' name='iso3' ordinal='0' />
+                  <column datatype='string' name='countries_and_areas' ordinal='1' />
+                  <column datatype='string' name='region' ordinal='2' />
+                  <column datatype='string' name='sub_region' ordinal='3' />
+                  <column datatype='string' name='income_group' ordinal='4' />
+                  <column datatype='integer' name='total' ordinal='5' />
+                  <column datatype='integer' name='rural' ordinal='6' />
+                  <column datatype='integer' name='urban' ordinal='7' />
+                  <column datatype='integer' name='poorest' ordinal='8' />
+                  <column datatype='integer' name='richest' ordinal='9' />
+                  <column datatype='integer' date-parse-format='yyyy' name='time_period' ordinal='10' />
+                  <column datatype='string' name='data_source' ordinal='11' />
+                  <column datatype='string' name='school_level' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{949DD4F1-D77B-4935-B9AF-234FB57F021B}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{E3C2FD27-AD2F-4D21-94A9-B8D2455CC01F}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='Sheet 1' width='384'>
+      iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAFXUlEQVR4nO3VMQEAIAzAMMC/5yFjRxMF/XpnZg4AOW87AIAdBgAQZQAAUQYAEGUAAFEG
+      ABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAA
+      UQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBl
+      AABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYA
+      EGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABR
+      BgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUA
+      AFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQ
+      ZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEG
+      ABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAA
+      UQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBl
+      AABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYA
+      EGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABR
+      BgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUA
+      AFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQ
+      ZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEG
+      ABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAA
+      UQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBl
+      AABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYA
+      EGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABR
+      BgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUA
+      AFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQ
+      ZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEG
+      ABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAA
+      UQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBl
+      AABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEGABBlAABRBgAQZQAAUQYA
+      EGUAAFEGABBlAABRBgAQZQAAUQYAEGUAAFEfFxoG/IiMv0YAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
