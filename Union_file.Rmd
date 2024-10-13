@@ -1,0 +1,136 @@
+---
+title: "UnionData"
+author: "Johanna"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+# secondaries
+lowersecondary <- read_csv("lowersecondary.csv") %>%  mutate(SchoolLevel = 'Lower Secondary') %>%  clean_names()
+upper_secondary<- read_csv("upper secondary.csv") %>%  mutate(SchoolLevel = 'Upper Secondary')  %>%  clean_names()
+  
+# primaries
+preprimary <- read_csv("pre-primary.csv") %>%  mutate(SchoolLevel = 'Pre-Primary')  %>%  clean_names()
+primary<- read_csv("primary.csv") %>%  mutate(SchoolLevel = 'Primary') %>%  clean_names()
+
+```
+
+
+# Look at the column names
+
+In order for union to work, we need all the same column names
+
+```{r}
+colnames(lowersecondary)
+```
+
+```{r}
+colnames(upper_secondary)
+```
+
+
+
+```{r}
+colnames(preprimary)
+```
+
+```{r}
+colnames(primary)
+```
+
+
+
+# Check column types are the same
+
+```{r}
+glimpse(lowersecondary)
+```
+
+```{r}
+glimpse(upper_secondary)
+```
+
+
+```{r}
+glimpse(preprimary)
+glimpse(primary)
+```
+
+Immediates we see that all columns are character columns with percentage signs. These will need to be converted to decimal proportions.
+
+Using Chloe's cleaning file we can clean all of these datasets in one go after unioning them.
+
+
+
+
+# Union the data
+
+
+```{r}
+# union datasets
+up_low_secondary_union <-  union_all(lowersecondary, upper_secondary) # 169 rows
+primaries_union <-  union_all(preprimary, primary) # 174 rows
+data <- union_all(up_low_secondary_union, primaries_union)
+df<- data.frame(data)
+
+#export_data <- write_csv(data, 'StackedDigitalConnectivity.csv' )
+```
+
+
+
+
+# Observe the new Df with all the data in it.
+```{r}
+df
+```
+
+
+
+# Using Chloe's cleaning script to remove the % signs
+
+
+
+
+```{r}
+# formatting Time.period into year format
+intoDatetime <- function(df){
+  df$time_period <- as.factor(df$time_period)
+  df$time_period <- as.Date(df$time_period, format = '%Y')
+  df$time_period <- year(df$time_period)
+
+  # updating the mismatched years in the column Time.period
+  df[df$time_period == 2076, "Time.period"] <- 2019 # Nepal
+  df[df$time_period == 2562, "Time.period"] <- 2019 # Thailand
+
+  return(df)
+}
+
+all_data <- intoDatetime(df)
+
+
+# Remove percentage symbols and convert columns to numeric
+removingSymbols <- function(df){
+  df$total <- as.numeric(gsub("%", "", df$total))
+  df$rural <- as.numeric(gsub("%", "", df$rural))
+  df$urban <- as.numeric(gsub("%", "", df$urban))
+  df$poorest <- as.numeric(gsub("%", "", df$poorest))
+  df$richest <- as.numeric(gsub("%", "", df$richest))
+
+  return(df)
+}
+
+all_data <- removingSymbols(all_data)
+
+```
+
