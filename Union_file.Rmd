@@ -84,7 +84,7 @@ primaries_union <-  union_all(preprimary, primary) # 174 rows
 data <- union_all(up_low_secondary_union, primaries_union)
 df<- data.frame(data)
 
-#export_data <- write_csv(data, 'StackedDigitalConnectivity.csv' )
+
 ```
 
 
@@ -110,8 +110,8 @@ intoDatetime <- function(df){
   df$time_period <- year(df$time_period)
 
   # updating the mismatched years in the column Time.period
-  df[df$time_period == 2076, "Time.period"] <- 2019 # Nepal
-  df[df$time_period == 2562, "Time.period"] <- 2019 # Thailand
+  df[df$time_period == 2076, "time_period"] <- 2019 # Nepal
+  df[df$time_period == 2562, "time_period"] <- 2019 # Thailand
 
   return(df)
 }
@@ -133,4 +133,11 @@ removingSymbols <- function(df){
 all_data <- removingSymbols(all_data)
 
 ```
+# Export Stacked Data
+
+```{r}
+export_data <- write_csv(all_data, 'StackedDigitalConnectivity.csv' )
+```
+
+
 
